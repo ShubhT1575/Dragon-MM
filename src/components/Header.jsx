@@ -271,19 +271,16 @@ const Header = () => {
         <div className={`offcanvas-body-nav ${isOpen ? "active" : ""}`}>
           <ul className="navbar-nav flex-column">
             <li className="nav-item">
-              <a className="nav-link color-pink" href="#">Home</a>
+              <a className="nav-link color-pink" href="/Mmtools">MM Tools</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link color-pink" href="#">Volume Bot</a>
+              <a className="nav-link color-pink" href="/DexVolume">DEX Volume Bot</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link color-pink" href="#">Market Maker Tools</a>
+              <a className="nav-link color-pink" href="/#services">Services</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link color-pink" href="#">Mobile App</a>
-            </li>
-            <li className="nav-item">
-              <a className="nav-link color-pink" href="#">Supported DEXs</a>
+              <a className="nav-link color-pink" href="/#contact">Contact</a>
             </li>
           </ul>
         </div>

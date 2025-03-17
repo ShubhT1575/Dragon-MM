@@ -45,7 +45,7 @@ const MMTools = () => {
                     </h3>
                     <div
                       className="mega_uae_btn_187 dexbutton2 mt60 deskonly"
-                      style={{ justifyContent: "center", display: "flex" ,background:"#C95291"}}
+                      style={{ justifyContent: "center", display: "flex" ,background:"#f95291"}}
                     >
                       {" "}
                       <a
@@ -94,7 +94,7 @@ const MMTools = () => {
                     </div>
                     <div
                       className="mega_uae_btn_381 dexbutton2 mt60 mobonly"
-                      style={{ justifyContent: "center", display: "flex" }}
+                      style={{ justifyContent: "center", display: "flex",background:"#f95291" }}
                     >
                       {" "}
                       <a
@@ -366,7 +366,7 @@ const MMTools = () => {
                     </h3>
                     <div
                       className="mega_uae_btn_381 dexbutton2 mt30 mrauto mlauto"
-                      style={{ justifyContent: "center", display: "flex" , background: "#c95291"}}
+                      style={{ justifyContent: "center", display: "flex" , background: "#f95291"}}
                     >
                       {" "}
                       <a
