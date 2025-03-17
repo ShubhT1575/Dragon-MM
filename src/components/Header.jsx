@@ -64,7 +64,7 @@ const Header = () => {
               <a
                 className="menu__link"
                 title="Services"
-                href="#"
+                href="/#services"
               >
                 <span className=" " style={{color: "white"}}>
                 &nbsp;Services
@@ -75,15 +75,15 @@ const Header = () => {
               id="menu-item-33"
               className="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu__item menu-item-33 active"
             >
-              <a
+              <Link
                 className="menu__link"
                 title="Token"
-                href="#"
+                to="/#token"
               >
                 <span className=" " style={{color: "white"}}>
                 &nbsp;Token
                 </span>
-              </a>
+              </Link>
             </li>
             <li
               id="menu-item-842"
@@ -92,7 +92,7 @@ const Header = () => {
               <a
                 className="menu__link"
                 title="Contact"
-                href="#"
+                href="/#contact"
               >
                 <span className=" " style={{color: "white"}}>
                 &nbsp;Contact

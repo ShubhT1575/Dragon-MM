@@ -401,13 +401,13 @@ const Hero = () => {
                       </div>
                     </div>
                     <div className="wpb_text_column wpb_content_element vc_custom_1729515734921 cw fs20 z10">
-                      <div className="wpb_wrapper">
+                      {/* <div className="wpb_wrapper">
                         <p>
                           <a href="/Mmtools" className="dexlink">
                             Get market maker tools
                           </a>
                         </p>
-                      </div>
+                      </div> */}
                     </div>
                   </div>
                 </div>
@@ -479,7 +479,7 @@ const Hero = () => {
                             height={402}
                             alt
                           />
-                          <img
+                          {/* <img
                             decoding="async"
                             className=" lazy  vc_single_image-img "
                             src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20420%20402%22%3E%3C/svg%3E"
@@ -487,7 +487,7 @@ const Hero = () => {
                             width={420}
                             height={402}
                             alt
-                          />
+                          /> */}
                         </div>
                       </figure>
                     </div>
@@ -539,13 +539,13 @@ const Hero = () => {
                       </div>
                     </div>
                     <div className="wpb_text_column wpb_content_element vc_custom_1729357635021 cw fs20 z10">
-                      <div className="wpb_wrapper">
+                      {/* <div className="wpb_wrapper">
                         <p>
                           <a href="#" className="dexlink">
                             Get market maker tools
                           </a>
                         </p>
-                      </div>
+                      </div> */}
                     </div>
                   </div>
                 </div>
@@ -613,13 +613,13 @@ const Hero = () => {
                               </div>
                             </div>
                             <div className="wpb_text_column wpb_content_element vc_custom_1729487324302 cw fs20 z10 mobonly">
-                              <div className="wpb_wrapper">
+                              {/* <div className="wpb_wrapper">
                                 <p>
                                   <a href="#" className="dexlink">
                                     Get market maker tools
                                   </a>
                                 </p>
-                              </div>
+                              </div> */}
                             </div>
                           </div>
                         </div>
@@ -679,7 +679,7 @@ const Hero = () => {
                               Made for Market Makers
                             </div>
                             <div className="wpb_text_column wpb_content_element vc_custom_1729515756078 cw fs20 z10 deskonly">
-                              <div className="wpb_wrapper">
+                              {/* <div className="wpb_wrapper">
                                 <p>
                                   <a
                                     href="https://mm.irocket.pro/account/signup/?source=site"
@@ -688,7 +688,7 @@ const Hero = () => {
                                     Get market maker tools
                                   </a>
                                 </p>
-                              </div>
+                              </div> */}
                             </div>
                             <div className="wpb_single_image wpb_content_element vc_align_left z10 deskonly ">
                               <figure className="wpb_wrapper vc_figure">
@@ -804,7 +804,7 @@ const Hero = () => {
                       className="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1730201798109"
                       data-res-css=" @media only screen and (max-width: 768px) {.vc_custom_1730201798109{margin-top: 40px !important;margin-bottom: 0px !important;}} @media only screen and (max-width: 576px) {.vc_custom_1730201798109{margin-top: 40px !important;margin-bottom: 0px !important;}}"
                     >
-                      <div className="wpb_column vc_column_container vc_col-sm-12">
+                      <div className="wpb_column vc_column_container vc_col-sm-12" id="services">
                         <div className="vc_column-inner ">
                           <div className="wpb_wrapper ">
                             <div
@@ -4588,7 +4588,7 @@ const Hero = () => {
             >
               <div className="wpb_column vc_column_container vc_col-sm-12">
                 <div className="vc_column-inner">
-                  <div className="wpb_wrapper ">
+                  <div className="wpb_wrapper " id="token">
                     <div
                       className="wpb_text_column wpb_content_element vc_custom_1730201747140 cw mb0"
                       id="token"
@@ -7432,7 +7432,7 @@ const Hero = () => {
             </div>
           </div>
         </div>
-        <section className="vc_section bt1 dexfoot vc_custom_1730034224028 footer-section">
+        <section className="vc_section bt1 dexfoot vc_custom_1730034224028 footer-section" id="contact">
           <div className="container">
             <div
               id="contact"
@@ -7447,7 +7447,7 @@ const Hero = () => {
                         <p style={{ textAlign: "left" }}>
                           <span
                             className="uppercase"
-                            style={{ fontSize: 12, color: "#44b1d5" }}
+                            style={{ fontSize: 12, color: "#f95291" }}
                           >
                             CONTACT US
                           </span>
@@ -7648,7 +7648,7 @@ const Hero = () => {
                         <p style={{ textAlign: "left" }}>
                           <span
                             className="uppercase"
-                            style={{ fontSize: 12, color: "#44b1d5" }}
+                            style={{ fontSize: 12, color: "#f95291" }}
                           >
                             FAST LINKS
                           </span>
