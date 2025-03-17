@@ -50,7 +50,7 @@ const Header = () => {
               <a
                 className="menu__link"
                 title="DEX Volume Bot"
-                href="https://irocket.pro/market-maker-tools-volume-on-dex"
+                href="/DexVolume"
               >
                 <span className=" " style={{color: "white"}}>
                 DEX Volume Bot
@@ -64,7 +64,7 @@ const Header = () => {
               <a
                 className="menu__link"
                 title="Services"
-                href="https://irocket.pro/#services"
+                href="#"
               >
                 <span className=" " style={{color: "white"}}>
                 &nbsp;Services
@@ -78,7 +78,7 @@ const Header = () => {
               <a
                 className="menu__link"
                 title="Token"
-                href="https://irocket.pro/#token"
+                href="#"
               >
                 <span className=" " style={{color: "white"}}>
                 &nbsp;Token
@@ -92,7 +92,7 @@ const Header = () => {
               <a
                 className="menu__link"
                 title="Contact"
-                href="https://irocket.pro/#contact"
+                href="#"
               >
                 <span className=" " style={{color: "white"}}>
                 &nbsp;Contact

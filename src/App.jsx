@@ -9,6 +9,7 @@ import Hero from './components/hero'
 import MMTools from './components/MMTools'
 import Footer from './components/Footer'
 import BackToTop from './components/BackToTop'
+import DexVolume from './components/DexVolume'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -21,6 +22,7 @@ function App() {
         <Routes>
           <Route path='/' element={<Hero/>}/>
           <Route path='/Mmtools' element={<MMTools/>}/>
+          <Route path='/DexVolume' element={<DexVolume/>}/>
         </Routes>
       </BrowserRouter>
       <BackToTop/>
