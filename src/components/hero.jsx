@@ -134,7 +134,7 @@ const Hero = () => {
                     <div className="wpb_text_column wpb_content_element vc_custom_1729866412434 cw fs20 lh12 mt30">
                       <div className="wpb_wrapper">
                         <p style={{ textAlign: "center" }}>
-                          Infinity Rocket Сompany specializes in the development
+                          Dragon MM Сompany specializes in the development
                           of technology services for the <span className="color-pink">DEX</span> segment of the
                           cryptocurrency market. The company specializes in
                           creating professional solutions for traders, market
@@ -578,7 +578,7 @@ const Hero = () => {
                               className="ch_153498 vc_custom_heading cw z10 fs40 fw700 dextitle lh12 mmt30"
                               data-res-css=" @media only screen and (max-width: 768px) {.{margin-top: 30px !important;}} @media only screen and (max-width: 576px) {.{margin-top: 30px !important;}} @media only screen and (max-width: 992px) {.ch_153498{}} @media only screen and (max-width: 768px) {.ch_153498{text-align:left!important;}} @media only screen and (max-width: 576px) {.ch_153498{text-align:left!important;}}"
                             >
-                              Market Making Bots from Infinity Rocket
+                              Market Making Bots from Dragon MM
                             </h3>
                             <div className="wpb_text_column wpb_content_element vc_custom_1730191637670 cw fz20 z10">
                               <div className="wpb_wrapper">
@@ -1105,7 +1105,7 @@ const Hero = () => {
                         </div>
                       </div>
                     </div>
-                    <div
+                    {/* <div
                       className="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1729501719918"
                       data-res-css=" @media only screen and (max-width: 768px) {.vc_custom_1729501719918{margin-top: 45px !important;}} @media only screen and (max-width: 576px) {.vc_custom_1729501719918{margin-top: 45px !important;}}"
                     >
@@ -1127,7 +1127,7 @@ const Hero = () => {
                           </div>
                         </div>
                       </div>
-                    </div>
+                    </div> */}
                     <div className="vc_row wpb_row vc_inner vc_row-fluid z10 vc_custom_1729361423300">
                       <div className="z10 wpb_column vc_column_container vc_col-sm-12">
                         <div className="vc_column-inner ">
@@ -1272,14 +1272,14 @@ const Hero = () => {
                                   decoding="async"
                                   className="news-carousel__item-img"
                                   src="https://irocket.pro/wp-content/uploads/2024/12/counterbot-350x174.webp"
-                                  alt="A new Counter Bot from Infinity Rocket has been launched!"
+                                  alt="A new Counter Bot from Dragon MM has been launched!"
                                 />
                                 {/* <img
                                   decoding="async"
                                   className=" lazy  news-carousel__item-img"
                                   src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E"
                                   data-src="https://irocket.pro/wp-content/uploads/2024/12/counterbot-350x174.webp"
-                                  alt="A new Counter Bot from Infinity Rocket has been launched!"
+                                  alt="A new Counter Bot from Dragon MM has been launched!"
                                 /> */}
                                 <div className="news-carousel__item-body">
                                   <div
@@ -1300,7 +1300,7 @@ const Hero = () => {
                                       lineHeight: "1.2em!important",
                                     }}
                                   >
-                                    A new Counter Bot from Infinity Rocket has
+                                    A new Counter Bot from Dragon MM has
                                     been launched!
                                   </h3>
                                   <p
@@ -1588,14 +1588,14 @@ const Hero = () => {
                                   decoding="async"
                                   className="news-carousel__item-img"
                                   src="https://irocket.pro/wp-content/uploads/2024/08/keyfocus-jpg-350x174.webp"
-                                  alt="The main areas of activity of the Infinity Rocket Company."
+                                  alt="The main areas of activity of the Dragon MM Company."
                                 />
                                 <img
                                   decoding="async"
                                   className=" lazy  news-carousel__item-img"
                                   src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E"
                                   data-src="https://irocket.pro/wp-content/uploads/2024/08/keyfocus-jpg-350x174.webp"
-                                  alt="The main areas of activity of the Infinity Rocket Company."
+                                  alt="The main areas of activity of the Dragon MM Company."
                                 />
                                 <div className="news-carousel__item-body">
                                   <div
@@ -1628,7 +1628,7 @@ const Hero = () => {
                                   >
                                     ☝️ Key areas of the company’s&nbsp;growth.
                                     We inform you about the current development
-                                    vectors of Infinity Rocket. Since the
+                                    vectors of Dragon MM. Since the
                                     company’s inception, the core competence
                                     of...
                                   </p>
@@ -4581,7 +4581,7 @@ const Hero = () => {
               </div>
             </div>
           </div>
-          <div className="container">
+          {/* <div className="container">
             <div
               className="ult-responsive vc_row wpb_row vc_row-fluid vc_custom_1735642456374"
               data-res-css=" @media only screen and (max-width: 992px) {.vc_custom_1735642456374{margin-bottom: 0px !important;}} @media only screen and (max-width: 768px) {.vc_custom_1735642456374{margin-top: 45px !important;margin-bottom: 0px !important;}} @media only screen and (max-width: 576px) {.vc_custom_1735642456374{margin-top: 45px !important;margin-bottom: 0px !important;}}"
@@ -4615,19 +4615,11 @@ const Hero = () => {
                       className="ch_807082 vc_custom_heading cw fs40 lh12 serviceta vc_custom_1729532681042"
                       data-res-css=" @media only screen and (max-width: 992px) {.ch_807082{}} @media only screen and (max-width: 768px) {.ch_807082{text-align:left!important;}} @media only screen and (max-width: 576px) {.ch_807082{text-align:left!important;}}"
                     >
-                      IRT Infinity Rocket Token
+                      IRT Dragon MM Token
                     </div>
                     <div className="wpb_single_image wpb_content_element vc_align_center vc_custom_1729486984669 absolute cloud3 deskonly ">
                       <figure className="wpb_wrapper vc_figure ">
                         <div className="vc_single_image-wrapper vc_box_border_grey">
-                          {/* <img
-                            decoding="async"
-                            width={150}
-                            height={150}
-                            src="https://irocket.pro/wp-content/uploads/2024/10/cyan-blur-right-150x150.webp"
-                            className="vc_single_image-img attachment-thumbnail"
-                            alt
-                          /> */}
                         </div>
                       </figure>
                     </div>
@@ -4635,408 +4627,9 @@ const Hero = () => {
                 </div>
               </div>
             </div>
-          </div>
-          <div className="container">
-            <div className="ult-responsive vc_row wpb_row vc_row-fluid">
-              <div className="z10 wpb_column vc_column_container vc_col-sm-3 vc_col-has-fill">
-                <div className="vc_column-inner">
-                  <div className="wpb_wrapper vc_custom_1729500370460">
-                    <div className="wpb_single_image wpb_content_element vc_align_center ">
-                      <figure className="wpb_wrapper vc_figure">
-                        <div className="vc_single_image-wrapper vc_box_border_grey">
-                          <img
-                            decoding="async"
-                            width={83}
-                            height={82}
-                            src="https://irocket.pro/wp-content/uploads/2024/10/3in1-png.webp"
-                            className="vc_single_image-img attachment-thumbnail"
-                            alt
-                            style={{marginBottom: "30px"}}
-                          />
-                          {/* <img
-                            decoding="async"
-                            width={83}
-                            height={82}
-                            src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2083%2082%22%3E%3C/svg%3E"
-                            data-src="https://irocket.pro/wp-content/uploads/2024/10/3in1-png.webp"
-                            className=" lazy  vc_single_image-img attachment-thumbnail"
-                            alt
-                          /> */}
-                        </div>
-                      </figure>
-                    </div>
-                    <div
-                      style={{
-                        fontSize: 18,
-                        lineHeight: "1.2em",
-                        textAlign: "center",
-                        fontFamily: "Raleway",
-                        fontWeight: 700,
-                        fontStyle: "normal",
-                      }}
-                      className="ch_83170 vc_custom_heading cw"
-                      data-res-css=" @media only screen and (max-width: 768px) {.{margin-bottom: 0px !important;}} @media only screen and (max-width: 576px) {.{margin-bottom: 0px !important;}} @media only screen and (max-width: 992px) {.ch_83170{}} @media only screen and (max-width: 768px) {.ch_83170{}} @media only screen and (max-width: 576px) {.ch_83170{}}"
-                    >
-                      20 000+
-                      <br /> Holders
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div className="z10 wpb_column vc_column_container vc_col-sm-3 vc_col-has-fill">
-                <div className="vc_column-inner">
-                  <div className="wpb_wrapper vc_custom_1729500360771">
-                    <div className="wpb_single_image wpb_content_element vc_align_center ">
-                      <figure className="wpb_wrapper vc_figure">
-                        <div className="vc_single_image-wrapper vc_box_border_grey">
-                          <img
-                            decoding="async"
-                            width={83}
-                            height={82}
-                            src="https://irocket.pro/wp-content/uploads/2024/10/upto.png"
-                            className="vc_single_image-img attachment-thumbnail"
-                            alt
-                            style={{marginBottom: "30px"}}
-                          />
-                          {/* <img
-                            decoding="async"
-                            width={83}
-                            height={82}
-                            src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2083%2082%22%3E%3C/svg%3E"
-                            data-src="https://irocket.pro/wp-content/uploads/2024/10/upto.png"
-                            className=" lazy  vc_single_image-img attachment-thumbnail"
-                            alt
-                          /> */}
-                        </div>
-                      </figure>
-                    </div>
-                    <div
-                      style={{
-                        fontSize: 18,
-                        lineHeight: "1.2em",
-                        textAlign: "center",
-                        fontFamily: "Raleway",
-                        fontWeight: 700,
-                        fontStyle: "normal",
-                      }}
-                      className="ch_697348 vc_custom_heading cw"
-                      data-res-css=" @media only screen and (max-width: 768px) {.{margin-bottom: 0px !important;}} @media only screen and (max-width: 576px) {.{margin-bottom: 0px !important;}} @media only screen and (max-width: 992px) {.ch_697348{}} @media only screen and (max-width: 768px) {.ch_697348{}} @media only screen and (max-width: 576px) {.ch_697348{}}"
-                    >
-                      1 Cryptocurrency
-                      <br /> Exchange
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div className="z10 wpb_column vc_column_container vc_col-sm-3 vc_col-has-fill">
-                <div className="vc_column-inner">
-                  <div className="wpb_wrapper vc_custom_1729500351788">
-                    <div className="wpb_single_image wpb_content_element vc_align_center ">
-                      <figure className="wpb_wrapper vc_figure">
-                        <div className="vc_single_image-wrapper vc_box_border_grey">
-                          <img
-                            decoding="async"
-                            width={83}
-                            height={82}
-                            src="https://irocket.pro/wp-content/uploads/2024/10/paper.png"
-                            className="vc_single_image-img attachment-thumbnail"
-                            alt
-                            style={{marginBottom: "30px"}}
-                          />
-                          {/* <img
-                            decoding="async"
-                            width={83}
-                            height={82}
-                            src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2083%2082%22%3E%3C/svg%3E"
-                            data-src="https://irocket.pro/wp-content/uploads/2024/10/paper.png"
-                            className=" lazy  vc_single_image-img attachment-thumbnail"
-                            alt
-                          /> */}
-                        </div>
-                      </figure>
-                    </div>
-                    <div
-                      style={{
-                        fontSize: 18,
-                        lineHeight: "1.2em",
-                        textAlign: "center",
-                        fontFamily: "Raleway",
-                        fontWeight: 700,
-                        fontStyle: "normal",
-                      }}
-                      className="ch_621473 vc_custom_heading cw"
-                      data-res-css=" @media only screen and (max-width: 768px) {.{margin-bottom: 0px !important;}} @media only screen and (max-width: 576px) {.{margin-bottom: 0px !important;}} @media only screen and (max-width: 992px) {.ch_621473{}} @media only screen and (max-width: 768px) {.ch_621473{}} @media only screen and (max-width: 576px) {.ch_621473{}}"
-                    >
-                      IRT Launch
-                      <br /> in September 2021
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div className="z10 wpb_column vc_column_container vc_col-sm-3 vc_col-has-fill">
-                <div className="vc_column-inner">
-                  <div className="wpb_wrapper vc_custom_1729501033042">
-                    <div className="wpb_single_image wpb_content_element vc_align_center z10 ">
-                      <figure className="wpb_wrapper vc_figure">
-                        <div className="vc_single_image-wrapper vc_box_border_grey">
-                          <img
-                            decoding="async"
-                            width={83}
-                            height={82}
-                            src="https://irocket.pro/wp-content/uploads/2024/10/coins.png"
-                            className="vc_single_image-img attachment-thumbnail"
-                            alt
-                            style={{marginBottom: "30px"}}
-                          />
-                          {/* <img
-                            decoding="async"
-                            width={83}
-                            height={82}
-                            src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2083%2082%22%3E%3C/svg%3E"
-                            data-src="https://irocket.pro/wp-content/uploads/2024/10/coins.png"
-                            className=" lazy  vc_single_image-img attachment-thumbnail"
-                            alt
-                          /> */}
-                        </div>
-                      </figure>
-                    </div>
-                    <div
-                      style={{
-                        fontSize: 18,
-                        lineHeight: "1.2em",
-                        textAlign: "center",
-                        fontFamily: "Raleway",
-                        fontWeight: 700,
-                        fontStyle: "normal",
-                      }}
-                      className="ch_15078 vc_custom_heading cw z10"
-                      data-res-css=" @media only screen and (max-width: 768px) {.{margin-bottom: 0px !important;}} @media only screen and (max-width: 576px) {.{margin-bottom: 0px !important;}} @media only screen and (max-width: 992px) {.ch_15078{}} @media only screen and (max-width: 768px) {.ch_15078{}} @media only screen and (max-width: 576px) {.ch_15078{}}"
-                    >
-                      Total Supply
-                      <br /> 188,000,000
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div className="container">
-            <div className="ult-responsive vc_row wpb_row vc_row-fluid vc_custom_1729351975393">
-              <div className="wpb_column vc_column_container vc_col-sm-4">
-                <div className="vc_column-inner">
-                  <div className="wpb_wrapper ">
-                    <div
-                      style={{
-                        fontSize: 24,
-                        lineHeight: "1.2em",
-                        textAlign: "left",
-                        fontFamily: "Raleway",
-                        fontWeight: 700,
-                        fontStyle: "normal",
-                      }}
-                      className="ch_37296 vc_custom_heading cw vc_custom_1729492797356"
-                      data-res-css=" @media only screen and (max-width: 992px) {.ch_37296{}} @media only screen and (max-width: 768px) {.ch_37296{font-size:24!important;}} @media only screen and (max-width: 576px) {.ch_37296{}}"
-                    >
-                      Exchanges
-                    </div>
-                    <div className="wpb_single_image wpb_content_element vc_align_left mw60 ">
-                      <figure className="wpb_wrapper vc_figure">
-                        {" "}
-                        <a
-                          href="https://pancakeswap.finance/swap?outputCurrency=0xcbe5bca571628894a38836b0bae833ff012f71d8"
-                          target="_self"
-                          className="vc_single_image-wrapper vc_box_border_grey"
-                        >
-                          <img
-                            decoding="async"
-                            className="vc_single_image-img "
-                            src="https://irocket.pro/wp-content/uploads/2024/10/color-white-2-png.webp"
-                            width={320}
-                            height={50}
-                            alt="color-white 2"
-                            title="color-white 2"
-                          />
-                          {/* <img
-                            decoding="async"
-                            className=" lazy  vc_single_image-img "
-                            src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20320%2050%22%3E%3C/svg%3E"
-                            data-src="https://irocket.pro/wp-content/uploads/2024/10/color-white-2-png.webp"
-                            width={320}
-                            height={50}
-                            alt="color-white 2"
-                            title="color-white 2"
-                          /> */}
-                        </a>{" "}
-                      </figure>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div className="wpb_column vc_column_container vc_col-sm-4">
-                <div className="vc_column-inner">
-                  <div className="wpb_wrapper ">
-                    <div
-                      style={{
-                        fontSize: 24,
-                        lineHeight: "1.2em",
-                        textAlign: "left",
-                        fontFamily: "Raleway",
-                        fontWeight: 700,
-                        fontStyle: "normal",
-                      }}
-                      className="ch_66963 vc_custom_heading cw vc_custom_1729493424745"
-                      data-res-css=" @media only screen and (max-width: 768px) {.vc_custom_1729493424745{margin-top: 40px !important;}} @media only screen and (max-width: 576px) {.vc_custom_1729493424745{margin-top: 40px !important;}} @media only screen and (max-width: 992px) {.ch_66963{}} @media only screen and (max-width: 768px) {.ch_66963{font-size:24!important;}} @media only screen and (max-width: 576px) {.ch_66963{font-size:24!important;}}"
-                    >
-                      Listed on
-                    </div>
-                    <div className="wpb_single_image wpb_content_element vc_align_left mw60 ">
-                      <figure className="wpb_wrapper vc_figure">
-                        {" "}
-                        <a
-                          href="https://coinmarketcap.com/currencies/infinity-rocket-token/"
-                          target="_self"
-                          className="vc_single_image-wrapper vc_box_border_grey"
-                        >
-                          <img
-                            decoding="async"
-                            className="vc_single_image-img "
-                            src="https://irocket.pro/wp-content/uploads/2024/10/frame-37-png.webp"
-                            width={292}
-                            height={50}
-                            alt="Frame 37"
-                            title="Frame 37"
-                          />
-                          {/* <img
-                            decoding="async"
-                            className=" lazy  vc_single_image-img "
-                            src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20292%2050%22%3E%3C/svg%3E"
-                            data-src="https://irocket.pro/wp-content/uploads/2024/10/frame-37-png.webp"
-                            width={292}
-                            height={50}
-                            alt="Frame 37"
-                            title="Frame 37"
-                          />{" "} */}
-                        </a>
-                      </figure>
-                    </div>
-                    <div className="wpb_single_image wpb_content_element vc_align_left mw60 mt30 ">
-                      <figure className="wpb_wrapper vc_figure">
-                        {" "}
-                        <a
-                          href="https://www.coingecko.com/en/coins/infinity-rocket-token"
-                          target="_self"
-                          className="vc_single_image-wrapper vc_box_border_grey"
-                        >
-                          <img
-                            decoding="async"
-                            className="vc_single_image-img "
-                            src="https://irocket.pro/wp-content/uploads/2024/10/frame-35-png.webp"
-                            width={190}
-                            height={50}
-                            alt="Frame 35"
-                            title="Frame 35"
-                          />
-                          {/* <img
-                            decoding="async"
-                            className=" lazy  vc_single_image-img "
-                            src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20190%2050%22%3E%3C/svg%3E"
-                            data-src="https://irocket.pro/wp-content/uploads/2024/10/frame-35-png.webp"
-                            width={190}
-                            height={50}
-                            alt="Frame 35"
-                            title="Frame 35"
-                          />{" "} */}
-                        </a>
-                      </figure>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div className="wpb_column vc_column_container vc_col-sm-4">
-                <div className="vc_column-inner">
-                  <div
-                    className="wpb_wrapper "
-                    data-res-css=" @media only screen and (max-width: 768px) {.{margin-top: 60px !important;}} @media only screen and (max-width: 576px) {.{margin-top: 60px !important;}}"
-                  >
-                    <div
-                      style={{
-                        fontSize: 24,
-                        lineHeight: "1.2em",
-                        textAlign: "left",
-                        fontFamily: "Raleway",
-                        fontWeight: 700,
-                        fontStyle: "normal",
-                      }}
-                      className="ch_209160 vc_custom_heading cw vc_custom_1729493431775"
-                      data-res-css=" @media only screen and (max-width: 768px) {.vc_custom_1729493431775{margin-top: 40px !important;margin-bottom: 30px !important;}} @media only screen and (max-width: 576px) {.vc_custom_1729493431775{margin-top: 40px !important;margin-bottom: 30px !important;}} @media only screen and (max-width: 992px) {.ch_209160{}} @media only screen and (max-width: 768px) {.ch_209160{font-size:24!important;}} @media only screen and (max-width: 576px) {.ch_209160{font-size:24!important;}}"
-                    >
-                      Contract Audits
-                    </div>
-                    <div className="wpb_single_image wpb_content_element vc_align_left mw60 ">
-                      <figure className="wpb_wrapper vc_figure">
-                        {" "}
-                        <a
-                          href="https://irocket.pro/docs/Infinity%20Rocket%20BSC%20Audit%2012789501.pdf"
-                          target="_self"
-                          className="vc_single_image-wrapper vc_box_border_grey"
-                        >
-                          <img
-                            decoding="async"
-                            className="vc_single_image-img "
-                            src="https://irocket.pro/wp-content/uploads/2024/10/group-7-png.webp"
-                            width={245}
-                            height={50}
-                            alt="Group 7"
-                            title="Group 7"
-                          />
-                          {/* <img
-                            decoding="async"
-                            className=" lazy  vc_single_image-img "
-                            src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20245%2050%22%3E%3C/svg%3E"
-                            data-src="https://irocket.pro/wp-content/uploads/2024/10/group-7-png.webp"
-                            width={245}
-                            height={50}
-                            alt="Group 7"
-                            title="Group 7"
-                          />{" "} */}
-                        </a>{" "}
-                      </figure>
-                    </div>
-                    <div className="wpb_single_image wpb_content_element vc_align_left mw60 mt30 ">
-                      <figure className="wpb_wrapper vc_figure">
-                        {" "}
-                        <a
-                          href="https://github.com/TechRate/Smart-Contract-Audits/blob/main/December/Infinity%20Rocket%20Token%20Full%20Smart%20Contract%20Security%20Audit.pdf"
-                          target="_self"
-                          className="vc_single_image-wrapper vc_box_border_grey"
-                        >
-                          <img
-                            decoding="async"
-                            className="vc_single_image-img "
-                            src="https://irocket.pro/wp-content/uploads/2024/10/techrate-1-png.webp"
-                            width={160}
-                            height={50}
-                            alt="TechRate 1"
-                            title="TechRate 1"
-                          />
-                          {/* <img
-                            decoding="async"
-                            className=" lazy  vc_single_image-img "
-                            src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20160%2050%22%3E%3C/svg%3E"
-                            data-src="https://irocket.pro/wp-content/uploads/2024/10/techrate-1-png.webp"
-                            width={160}
-                            height={50}
-                            alt="TechRate 1"
-                            title="TechRate 1"
-                          />{" "} */}
-                        </a>
-                      </figure>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
+          </div> */}
+         
+        
           <div className="container">
             <div className="ult-responsive vc_row wpb_row vc_row-fluid hidden">
               <div className="wpb_column vc_column_container vc_col-sm-12">
@@ -7468,7 +7061,7 @@ const Hero = () => {
                     </div>
                     <div className="wpb_text_column wpb_content_element vc_custom_1730192529366 cw z10 fs18 mt35">
                       <div className="wpb_wrapper">
-                        <p style={{ textAlign: "left" }}>
+                        {/* <p style={{ textAlign: "left" }}>
                           <span style={{ color: "#ffffff" }}>
                             <a
                               href="https://t.me/iRocket_Support_Bot"
@@ -7478,8 +7071,8 @@ const Hero = () => {
                             </a>{" "}
                           </span>
                           – Support Bot
-                        </p>
-                        <p style={{ textAlign: "left" }}>
+                        </p> */}
+                        {/* <p style={{ textAlign: "left" }}>
                           <span style={{ color: "#ffffff" }}>
                             <a
                               href="/cdn-cgi/l/email-protection#87f4f2f7f7e8f5f3c7eef5e8e4ece2f3a9f7f5e8"
@@ -7494,7 +7087,7 @@ const Hero = () => {
                             </a>
                           </span>
                           – Support
-                        </p>
+                        </p> */}
                       </div>
                     </div>
                     <div className="wpb_text_column wpb_content_element vc_custom_1729363855960 cw z10 fs18">
@@ -7795,12 +7388,12 @@ const Hero = () => {
                           <img
                             decoding="async"
                             className="vc_single_image-img "
-                            src="https://irocket.pro/wp-content/uploads/2024/10/logo_new-png-160x70.webp"
+                            src="public/Dragon Mm 3.png"
                             width={160}
-                            height={70}
+                            height={90}
                             alt
                           />
-                          <img
+                          {/* <img
                             decoding="async"
                             className=" lazy  vc_single_image-img "
                             src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20160%2070%22%3E%3C/svg%3E"
@@ -7808,13 +7401,13 @@ const Hero = () => {
                             width={160}
                             height={70}
                             alt
-                          />
+                          /> */}
                         </div>
                       </figure>
                     </div>
                     <div className="wpb_text_column wpb_content_element vc_custom_1739132383086 cw fs14 comsoon mt20">
                       <div className="wpb_wrapper">
-                        <p>© 2025, Infinity Rocket</p>
+                        <p>© 2025, Dragon MM</p>
                       </div>
                     </div>
                   </div>
@@ -7832,10 +7425,10 @@ const Hero = () => {
                               className="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-4285"
                             >
                               <a
-                                href="https://irocket.pro/"
+                                href="/MmTools"
                                 aria-current="page"
                               >
-                                About
+                                MM Tools
                               </a>
                             </li>
                             <li
@@ -7843,10 +7436,10 @@ const Hero = () => {
                               className="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-4286"
                             >
                               <a
-                                href="https://irocket.pro/#timeline"
+                                href="/DexVolume"
                                 aria-current="page"
                               >
-                                Road Map
+                                DEX Volume Bot
                               </a>
                             </li>
                             <li
@@ -7854,10 +7447,10 @@ const Hero = () => {
                               className="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-4287"
                             >
                               <a
-                                href="https://irocket.pro/#token"
+                                href="/#services"
                                 aria-current="page"
                               >
-                                Token
+                                Services
                               </a>
                             </li>
                             <li
@@ -7865,13 +7458,13 @@ const Hero = () => {
                               className="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-4288"
                             >
                               <a
-                                href="https://irocket.pro/#services"
+                                href="/#contact"
                                 aria-current="page"
                               >
-                                Services
+                                Contact
                               </a>
                             </li>
-                            <li
+                            {/* <li
                               id="menu-item-5186"
                               className="menu-item menu-item-type-post_type menu-item-object-page menu-item-5186"
                             >
@@ -7886,7 +7479,7 @@ const Hero = () => {
                               <a href="https://irocket.pro/terms-of-use">
                                 Terms of Use
                               </a>
-                            </li>
+                            </li> */}
                           </ul>
                         </div>
                       </div>

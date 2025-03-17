@@ -10,6 +10,7 @@ import MMTools from './components/MMTools'
 import Footer from './components/Footer'
 import BackToTop from './components/BackToTop'
 import DexVolume from './components/DexVolume'
+// import Offcanvas from './components/Offcanvas'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -40,6 +41,7 @@ function App() {
           <Route path='/' element={<Hero/>}/>
           <Route path='/Mmtools' element={<MMTools/>}/>
           <Route path='/DexVolume' element={<DexVolume/>}/>
+          {/* <Route path='/off' element={<Offcanvas/>}/> */}
         </Routes>
       {/* </BrowserRouter> */}
       <BackToTop/>

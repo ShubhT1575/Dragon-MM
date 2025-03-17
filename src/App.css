@@ -16,6 +16,14 @@ body{
 .logo-mm{
     height: 50px !important;
 }
+.offcanvas-navbar{
+    transition: all 2s ease-in-out;
+}
+.offcanvas-body-nav{
+    padding-left: 30px;
+    background: #272a2c;
+    transition: all 2s ease-in-out;
+}
 
 @media (min-width: 320px) and (max-width: 480px) {
     .bg-pancakeswap:not(.two_bg) {

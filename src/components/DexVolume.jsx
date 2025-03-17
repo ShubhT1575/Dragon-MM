@@ -40,7 +40,7 @@ const DexVolume = () => {
                       data-res-css=" @media only screen and (max-width: 992px) {.ch_941785{}} @media only screen and (max-width: 768px) {.ch_941785{}} @media only screen and (max-width: 576px) {.ch_941785{}}"
                     >
                       Make your Trading Volume with Market Maker Tools from
-                      Infinity Rocket
+                      Dragon MM
                     </h3>
                     <div
                       className="mega_uae_btn_438 dexbutton2 mt60 mlauto mrauto"
@@ -761,7 +761,7 @@ const DexVolume = () => {
               </div>
             </div>
           </div>
-          <section className="vc_section bt1 dexfoot vc_custom_1730034224028 footer-section">
+          <section className="vc_section bt1 dexfoot vc_custom_1730034224028 footer-section" id="contact">
           <div className="container">
             <div
               id="contact"
@@ -797,7 +797,7 @@ const DexVolume = () => {
                     </div>
                     <div className="wpb_text_column wpb_content_element vc_custom_1730192529366 cw z10 fs18 mt35">
                       <div className="wpb_wrapper">
-                        <p style={{ textAlign: "left" }}>
+                        {/* <p style={{ textAlign: "left" }}>
                           <span style={{ color: "#ffffff" }}>
                             <a
                               href="https://t.me/iRocket_Support_Bot"
@@ -807,8 +807,8 @@ const DexVolume = () => {
                             </a>{" "}
                           </span>
                           – Support Bot
-                        </p>
-                        <p style={{ textAlign: "left" }}>
+                        </p> */}
+                        {/* <p style={{ textAlign: "left" }}>
                           <span style={{ color: "#ffffff" }}>
                             <a
                               href="/cdn-cgi/l/email-protection#87f4f2f7f7e8f5f3c7eef5e8e4ece2f3a9f7f5e8"
@@ -823,7 +823,7 @@ const DexVolume = () => {
                             </a>
                           </span>
                           – Support
-                        </p>
+                        </p> */}
                       </div>
                     </div>
                     <div className="wpb_text_column wpb_content_element vc_custom_1729363855960 cw z10 fs18">
@@ -1124,12 +1124,12 @@ const DexVolume = () => {
                           <img
                             decoding="async"
                             className="vc_single_image-img "
-                            src="https://irocket.pro/wp-content/uploads/2024/10/logo_new-png-160x70.webp"
+                            src="public/Dragon Mm 3.png"
                             width={160}
-                            height={70}
+                            height={90}
                             alt
                           />
-                          <img
+                          {/* <img
                             decoding="async"
                             className=" lazy  vc_single_image-img "
                             src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20160%2070%22%3E%3C/svg%3E"
@@ -1137,13 +1137,13 @@ const DexVolume = () => {
                             width={160}
                             height={70}
                             alt
-                          />
+                          /> */}
                         </div>
                       </figure>
                     </div>
                     <div className="wpb_text_column wpb_content_element vc_custom_1739132383086 cw fs14 comsoon mt20">
                       <div className="wpb_wrapper">
-                        <p>© 2025, Infinity Rocket</p>
+                        <p>© 2025, Dragon MM</p>
                       </div>
                     </div>
                   </div>
@@ -1161,10 +1161,10 @@ const DexVolume = () => {
                               className="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-4285"
                             >
                               <a
-                                href="https://irocket.pro/"
+                                href="/MmTools"
                                 aria-current="page"
                               >
-                                About
+                                MM Tools
                               </a>
                             </li>
                             <li
@@ -1172,10 +1172,10 @@ const DexVolume = () => {
                               className="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-4286"
                             >
                               <a
-                                href="https://irocket.pro/#timeline"
+                                href="/DexVolume"
                                 aria-current="page"
                               >
-                                Road Map
+                                DEX Volume Bot
                               </a>
                             </li>
                             <li
@@ -1183,10 +1183,10 @@ const DexVolume = () => {
                               className="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-4287"
                             >
                               <a
-                                href="https://irocket.pro/#token"
+                                href="/#services"
                                 aria-current="page"
                               >
-                                Token
+                                Services
                               </a>
                             </li>
                             <li
@@ -1194,13 +1194,13 @@ const DexVolume = () => {
                               className="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-4288"
                             >
                               <a
-                                href="https://irocket.pro/#services"
+                                href="/#contact"
                                 aria-current="page"
                               >
-                                Services
+                                Contact
                               </a>
                             </li>
-                            <li
+                            {/* <li
                               id="menu-item-5186"
                               className="menu-item menu-item-type-post_type menu-item-object-page menu-item-5186"
                             >
@@ -1215,7 +1215,7 @@ const DexVolume = () => {
                               <a href="https://irocket.pro/terms-of-use">
                                 Terms of Use
                               </a>
-                            </li>
+                            </li> */}
                           </ul>
                         </div>
                       </div>

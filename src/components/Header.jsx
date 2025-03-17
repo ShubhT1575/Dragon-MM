@@ -1,7 +1,16 @@
-import React from "react";
+import React, { useState } from "react";
 import { Link } from "react-router-dom";
 
 const Header = () => {
+  const [isOpen,setIsOpen] = useState(false);
+  const toggleSidebar = () =>{
+    if(isOpen){
+      setIsOpen(false);
+    }
+    else{
+      setIsOpen(true);
+    }
+  }
   return (
     <>
       <header className="header sticky-on text-normal" style={{background: "black"}}>
@@ -71,7 +80,7 @@ const Header = () => {
                 </span>
               </a>
             </li>
-            <li
+            {/* <li
               id="menu-item-33"
               className="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu__item menu-item-33 active"
             >
@@ -84,7 +93,7 @@ const Header = () => {
                 &nbsp;Token
                 </span>
               </Link>
-            </li>
+            </li> */}
             <li
               id="menu-item-842"
               className="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu__item menu-item-842 active"
@@ -134,14 +143,14 @@ const Header = () => {
             </a>
           </div>
         </div>
-        <div className="btn-menu">
+        <div className="btn-menu" onClick={toggleSidebar}>
           <div className="one" />
           <div className="two" />
           <div className="three" />
         </div>
       </header>
 
-      <div className="fixed-menu text-normal">
+     <div className="fixed-menu text-normal">
         <div className="fixed-menu__header">
           <a
             className="logo logo--color mob-sticky-logo nt-logo"
@@ -250,6 +259,35 @@ const Header = () => {
           </div>
         </div>
       </div>
+
+      
+
+      {isOpen && <> <div 
+        className="offcanvas-navbar"
+        tabIndex="-1" 
+        id="offcanvasNavbar" 
+        aria-labelledby="offcanvasNavbarLabel"
+      >
+        <div className={`offcanvas-body-nav ${isOpen ? "active" : ""}`}>
+          <ul className="navbar-nav flex-column">
+            <li className="nav-item">
+              <a className="nav-link color-pink" href="#">Home</a>
+            </li>
+            <li className="nav-item">
+              <a className="nav-link color-pink" href="#">Volume Bot</a>
+            </li>
+            <li className="nav-item">
+              <a className="nav-link color-pink" href="#">Market Maker Tools</a>
+            </li>
+            <li className="nav-item">
+              <a className="nav-link color-pink" href="#">Mobile App</a>
+            </li>
+            <li className="nav-item">
+              <a className="nav-link color-pink" href="#">Supported DEXs</a>
+            </li>
+          </ul>
+        </div>
+      </div></>}
     </>
   );
 };
