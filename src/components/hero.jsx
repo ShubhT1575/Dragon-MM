@@ -7,7 +7,7 @@ const Hero = () => {
         <section
           data-vc-full-width="true"
           data-vc-full-width-init="false"
-          className="vc_section bgcloud2 pb120 vc_section-o-content-top vc_section-flex"
+          className="vc_section  pb120 vc_section-o-content-top vc_section-flex"
         >
           <div className="container">
             <div
@@ -560,7 +560,7 @@ const Hero = () => {
                 <div className="vc_column-inner">
                   <div className="wpb_wrapper ">
                     <div
-                      className="vc_row wpb_row vc_inner vc_row-fluid dexbgmiddle flexreverse vc_custom_1730099534266"
+                      className="vc_row wpb_row vc_inner vc_row-fluid dexbgmiddle flexreverse vc_custom_1730099534266 bg-seed"
                       data-res-css=" @media only screen and (max-width: 768px) {.vc_custom_1730099534266{padding-top: 30px !important;padding-right: 0px !important;padding-bottom: 30px !important;padding-left: 0px !important;}} @media only screen and (max-width: 576px) {.vc_custom_1730099534266{padding-top: 30px !important;padding-right: 0px !important;padding-bottom: 30px !important;padding-left: 0px !important;}}"
                     >
                       <div className="wpb_column vc_column_container vc_col-sm-5">
@@ -719,14 +719,14 @@ const Hero = () => {
                             <div className="wpb_single_image wpb_content_element vc_align_center vc_custom_1729486975133 absolute cloud2 deskonly ">
                               <figure className="wpb_wrapper vc_figure">
                                 <div className="vc_single_image-wrapper vc_box_border_grey">
-                                  <img
+                                  {/* <img
                                     decoding="async"
                                     width={150}
                                     height={150}
                                     src="https://irocket.pro/wp-content/uploads/2024/10/cyan-blur-right-150x150.webp"
                                     className="vc_single_image-img attachment-thumbnail"
                                     alt
-                                  />
+                                  /> */}
                                 </div>
                               </figure>
                             </div>
@@ -1772,14 +1772,14 @@ const Hero = () => {
                             <div className="wpb_single_image wpb_content_element vc_align_left absolute cloud4 deskonly ">
                               <figure className="wpb_wrapper vc_figure">
                                 <div className="vc_single_image-wrapper vc_box_border_grey">
-                                  <img
+                                  {/* <img
                                     decoding="async"
                                     width={150}
                                     height={150}
                                     src="https://irocket.pro/wp-content/uploads/2024/10/green_cloud-150x150.webp"
                                     className="vc_single_image-img attachment-thumbnail"
                                     alt
-                                  />
+                                  /> */}
                                 </div>
                               </figure>
                             </div>
@@ -4617,16 +4617,16 @@ const Hero = () => {
                       IRT Infinity Rocket Token
                     </div>
                     <div className="wpb_single_image wpb_content_element vc_align_center vc_custom_1729486984669 absolute cloud3 deskonly ">
-                      <figure className="wpb_wrapper vc_figure">
+                      <figure className="wpb_wrapper vc_figure ">
                         <div className="vc_single_image-wrapper vc_box_border_grey">
-                          <img
+                          {/* <img
                             decoding="async"
                             width={150}
                             height={150}
                             src="https://irocket.pro/wp-content/uploads/2024/10/cyan-blur-right-150x150.webp"
                             className="vc_single_image-img attachment-thumbnail"
                             alt
-                          />
+                          /> */}
                         </div>
                       </figure>
                     </div>
@@ -7431,7 +7431,7 @@ const Hero = () => {
             </div>
           </div>
         </div>
-        <section className="vc_section bt1 dexfoot vc_custom_1730034224028">
+        <section className="vc_section bt1 dexfoot vc_custom_1730034224028 footer-section">
           <div className="container">
             <div
               id="contact"
