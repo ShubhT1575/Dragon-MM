@@ -26,10 +26,10 @@ const MMTools = () => {
                         fontWeight: 700,
                         fontStyle: "normal",
                       }}
-                      className="ch_757529 vc_custom_heading fs48 cw fw700 lh12 mob mt80 vc_custom_1730032960340"
+                      className="ch_757529 vc_custom_heading fs48 cw fw700 lh12 mob mt80 vc_custom_1730032960340 color-pink"
                       data-res-css=" @media only screen and (max-width: 992px) {.ch_757529{}} @media only screen and (max-width: 768px) {.ch_757529{text-align:center!important;}} @media only screen and (max-width: 576px) {.ch_757529{text-align:center!important;}}"
                     >
-                      Market Maker Tools
+                      Dragon MM Tools
                     </h3>
                     <h3
                       style={{
@@ -45,7 +45,7 @@ const MMTools = () => {
                     </h3>
                     <div
                       className="mega_uae_btn_187 dexbutton2 mt60 deskonly"
-                      style={{ justifyContent: "center", display: "flex" }}
+                      style={{ justifyContent: "center", display: "flex" ,background:"#C95291"}}
                     >
                       {" "}
                       <a
@@ -137,7 +137,7 @@ const MMTools = () => {
                                 fontWeight: 700,
                                 fontStyle: "normal",
                               }}
-                              className="ch_408556 vc_custom_heading fs40 cw fw700 lh12 vc_custom_1730033079582"
+                              className="ch_408556 vc_custom_heading fs40 cw fw700 lh12 vc_custom_1730033079582 color-pink"
                               data-res-css=" @media only screen and (max-width: 992px) {.ch_408556{}} @media only screen and (max-width: 768px) {.ch_408556{}} @media only screen and (max-width: 576px) {.ch_408556{}}"
                             >
                               Volume Bot for DEX from Infinity Rocket
@@ -192,7 +192,7 @@ const MMTools = () => {
                               <div className="wpb_wrapper">
                                 <ul>
                                   <li className="dex">
-                                    <span style={{ color: "#ffffff" }}>
+                                    <span style={{ color: "#F95291" }}>
                                       Trade Bots – use a lot of trade bots
                                       presets
                                     </span>
@@ -205,14 +205,14 @@ const MMTools = () => {
                                     Make Launch daily chart bots
                                   </li>
                                   <li className="dex">
-                                    <span style={{ color: "#ffffff" }}>
+                                    <span style={{ color: "#F95291" }}>
                                       Counter Bots – work with your chart and
                                       blockchain activity, control your chart
                                       movement.
                                     </span>
                                   </li>
                                   <li className="dex">
-                                    <span style={{ color: "#ffffff" }}>
+                                    <span style={{ color: "#F95291" }}>
                                       Trigger Bots – activate buys and sells on
                                       any price chart levels
                                     </span>
@@ -242,7 +242,7 @@ const MMTools = () => {
                                 fontWeight: 300,
                                 fontStyle: "normal",
                               }}
-                              className="ch_234564 vc_custom_heading fs28 cw fw700 lh12 mt30 vc_custom_1729704635439"
+                              className="ch_234564 vc_custom_heading fs28 cw fw700 lh12 mt30 vc_custom_1729704635439 color-pink"
                               data-res-css=" @media only screen and (max-width: 992px) {.ch_234564{}} @media only screen and (max-width: 768px) {.ch_234564{}} @media only screen and (max-width: 576px) {.ch_234564{}}"
                             >
                               Market Maker Tools
@@ -366,7 +366,7 @@ const MMTools = () => {
                     </h3>
                     <div
                       className="mega_uae_btn_381 dexbutton2 mt30 mrauto mlauto"
-                      style={{ justifyContent: "center", display: "flex" }}
+                      style={{ justifyContent: "center", display: "flex" , background: "#c95291"}}
                     >
                       {" "}
                       <a
@@ -417,7 +417,7 @@ const MMTools = () => {
                         fontWeight: 700,
                         fontStyle: "normal",
                       }}
-                      className="ch_395156 vc_custom_heading fs40 cw fw700 lh12 mb10 vc_custom_1729964178847"
+                      className="ch_395156 vc_custom_heading fs40 cw fw700 lh12 mb10 vc_custom_1729964178847 color-pink"
                       data-res-css=" @media only screen and (max-width: 992px) {.ch_395156{}} @media only screen and (max-width: 768px) {.ch_395156{}} @media only screen and (max-width: 576px) {.ch_395156{}}"
                     >
                       Market Maker Tools
@@ -437,7 +437,7 @@ const MMTools = () => {
                     </h3>
                     <div className="wpb_text_column wpb_content_element lh14">
                       <div className="wpb_wrapper">
-                        <p className="fs16 cw mt30 uppercase fw700">
+                        <p className="fs16 cw mt30 uppercase fw700 color-pink">
                           Market Maker Tools:
                         </p>
                         <ul className="fs16 mt20">
@@ -470,7 +470,7 @@ const MMTools = () => {
                     <div className="wpb_text_column wpb_content_element vc_custom_1730035036450 mob fs18 mmt30">
                       <div className="wpb_wrapper">
                         <p>
-                          <span style={{ color: "#44b1d5" }}>
+                          <span style={{ color: "#f95291" }}>
                             CONNECTED BLOCKCHAINS:
                           </span>
                         </p>
@@ -502,7 +502,7 @@ const MMTools = () => {
                     <div className="wpb_text_column wpb_content_element vc_custom_1729866830827 mob fs18 mt30">
                       <div className="wpb_wrapper">
                         <p>
-                          <span style={{ color: "#44b1d5" }}>
+                          <span style={{ color: "#f95291" }}>
                             CONNECTED EXCHANGES:
                           </span>
                         </p>
@@ -541,7 +541,7 @@ const MMTools = () => {
                     <div className="wpb_text_column wpb_content_element vc_custom_1729866855967 mob fs18 mt30">
                       <div className="wpb_wrapper">
                         <p>
-                          <span style={{ color: "#44b1d5" }}>
+                          <span style={{ color: "#f95291" }}>
                             TRADING PAIRS
                           </span>
                         </p>
@@ -576,7 +576,7 @@ const MMTools = () => {
                         fontWeight: 700,
                         fontStyle: "normal",
                       }}
-                      className="ch_831727 vc_custom_heading fs40 cw fw700 lh12 tacenter vc_custom_1729585545042"
+                      className="ch_831727 vc_custom_heading fs40 cw fw700 lh12 tacenter vc_custom_1729585545042 color-pink"
                       data-res-css=" @media only screen and (max-width: 992px) {.ch_831727{}} @media only screen and (max-width: 768px) {.ch_831727{}} @media only screen and (max-width: 576px) {.ch_831727{}}"
                     >
                       Choose The Plan That’s Right For You
@@ -623,7 +623,7 @@ const MMTools = () => {
                               title="💡 Beginner"
                             /> */}
                           </p>
-                          <p className="cw fs28">Beginner</p>
+                          <p className="cw fs28 color-pink">Beginner</p>
                           <ul className="flex dexlist2 fs16">
                             <li>$299 per month</li>
                             <li>1 token, 1 wallet, 2 bots</li>
@@ -668,7 +668,7 @@ for market making"
 for market making"
                             /> */}
                           </p>
-                          <p className="cw fs28">Advanced</p>
+                          <p className="cw fs28 color-pink">Advanced</p>
                           <ul className="flex dexlist2 fs16">
                             <li>$599 per month</li>
                             <li>1 token, 2 wallets, 5 bots</li>
@@ -713,7 +713,7 @@ for market making"
 for market making"
                             /> */}
                           </p>
-                          <p className="cw fs28">PRO</p>
+                          <p className="cw fs28 color-pink">PRO</p>
                           <ul className="flex dexlist2 fs16">
                             <li>$899 per month</li>
                             <li>1 token, 50 wallets, 50 bots</li>
@@ -758,7 +758,7 @@ for market making"
 for market making"
                             /> */}
                           </p>
-                          <p className="cw fs28">Rocket</p>
+                          <p className="cw fs28 color-pink">Rocket</p>
                           <ul className="flex dexlist2 fs16">
                             <li>$1999 per month</li>
                             <li>1 token, 100 wallets, 100 bots</li>
@@ -787,7 +787,7 @@ for market making"
                   >
                     <div
                       className="mega_uae_btn_420 dexbutton2 mlauto mrauto"
-                      style={{ justifyContent: "center", display: "flex" }}
+                      style={{ justifyContent: "center", display: "flex",background: "#f95291" }}
                     >
                       {" "}
                       <a
@@ -828,7 +828,7 @@ for market making"
                         fontWeight: 700,
                         fontStyle: "normal",
                       }}
-                      className="ch_791660 vc_custom_heading fs40 cw fw700 lh12 vc_custom_1729622666633"
+                      className="ch_791660 vc_custom_heading fs40 cw fw700 lh12 vc_custom_1729622666633 color-pink"
                       data-res-css=" @media only screen and (max-width: 992px) {.ch_791660{}} @media only screen and (max-width: 768px) {.ch_791660{text-align:left!important;}} @media only screen and (max-width: 576px) {.ch_791660{text-align:left!important;}}"
                     >
                       Made for Market Makers
@@ -946,7 +946,7 @@ for market making"
                         fontWeight: 700,
                         fontStyle: "normal",
                       }}
-                      className="ch_77074 vc_custom_heading fs40 cw fw700 lh12 vc_custom_1729623214514"
+                      className="ch_77074 vc_custom_heading fs40 cw fw700 lh12 vc_custom_1729623214514 color-pink"
                       data-res-css=" @media only screen and (max-width: 992px) {.ch_77074{}} @media only screen and (max-width: 768px) {.ch_77074{text-align:left!important;}} @media only screen and (max-width: 576px) {.ch_77074{text-align:left!important;}}"
                     >
                       Make Volume on DEX with MM Tools
@@ -1073,7 +1073,7 @@ for market making"
                                 <p style={{ textAlign: "center" }}>
                                   <a
                                     href="/market-maker-tools "
-                                    className="dexlink"
+                                    className="dexlink color-pink"
                                   >
                                     Get started mm tools
                                   </a>
@@ -1331,7 +1331,7 @@ for market making"
                                 fontWeight: 700,
                                 fontStyle: "normal",
                               }}
-                              className="ch_687047 vc_custom_heading fs40 cw fw700 lh12 vc_custom_1729695688516"
+                              className="ch_687047 vc_custom_heading fs40 cw fw700 lh12 vc_custom_1729695688516 color-pink"
                               data-res-css=" @media only screen and (max-width: 992px) {.ch_687047{}} @media only screen and (max-width: 768px) {.ch_687047{text-align:left!important;}} @media only screen and (max-width: 576px) {.ch_687047{text-align:left!important;}}"
                             >
                               Activate Your Project
@@ -1384,7 +1384,7 @@ for market making"
                                     /> */}
                                   </p>
                                   <div>
-                                    <h3 className="cw z10 fs20 fw700 dextitle lh12 serviceta">
+                                    <h3 className="cw z10 fs20 fw700 dextitle lh12 serviceta color-pink">
                                       Plot your own chart on DEX
                                     </h3>
                                     <p className="cdex fs18 lh12 fw400 mt10 serviceta">
@@ -1427,7 +1427,7 @@ for market making"
                                     /> */}
                                   </p>
                                   <div>
-                                    <h3 className="cw z10 fs20 fw700 dextitle lh12 serviceta">
+                                    <h3 className="cw z10 fs20 fw700 dextitle lh12 serviceta color-pink">
                                       Use a large number of trading bots working
                                       simultaneously
                                     </h3>
@@ -1475,7 +1475,7 @@ for market making"
                                     /> */}
                                   </p>
                                   <div>
-                                    <h3 className="cw z10 fs20 fw700 dextitle lh12 serviceta">
+                                    <h3 className="cw z10 fs20 fw700 dextitle lh12 serviceta color-pink">
                                       Get trial period MM Tools
                                     </h3>
                                     <p className="cdex fs18 lh12 fw400 mt10 serviceta">
@@ -1517,7 +1517,7 @@ for market making"
                                     /> */}
                                   </p>
                                   <div>
-                                    <h3 className="cw z10 fs20 fw700 dextitle lh12 serviceta">
+                                    <h3 className="cw z10 fs20 fw700 dextitle lh12 serviceta color-pink">
                                       Control token’s liquidity and volume
                                     </h3>
                                     <p className="cdex fs18 lh12 fw400 mt10 serviceta">
@@ -1544,7 +1544,7 @@ for market making"
                                 fontWeight: 700,
                                 fontStyle: "normal",
                               }}
-                              className="ch_506007 vc_custom_heading fs40 cw fw700 lh12 vc_custom_1729575528187"
+                              className="ch_506007 vc_custom_heading fs40 cw fw700 lh12 vc_custom_1729575528187 color-pink"
                               data-res-css=" @media only screen and (max-width: 992px) {.ch_506007{}} @media only screen and (max-width: 768px) {.ch_506007{}} @media only screen and (max-width: 576px) {.ch_506007{}}"
                             >
                               Referral Program
@@ -1577,6 +1577,7 @@ for market making"
                               style={{
                                 justifyContent: "center",
                                 display: "flex",
+                                background: "#f95291"
                               }}
                             >
                               {" "}

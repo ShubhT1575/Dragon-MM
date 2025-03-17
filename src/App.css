@@ -3240,8 +3240,14 @@ li.dexok {
     padding-right: 5px !important
 }
 .dex::marker{
-  color: #f95192;
+  color: #f95192 !important;
 }
+.dexlist::marker{
+    color: #f95192 !important;
+  }
+  /* .dexlist2::marker{
+    color: #f95192 !important;
+  } */
 
 .maw_advanced_btn {
     float: left;
@@ -4063,7 +4069,7 @@ section {
     height: 50px;
     -webkit-border-radius: 5px;
     border-radius: 5px;
-    background-color: #557ef8;
+    background-color: #f95192;
     line-height: 50px;
     color: #fff;
     font-size: 16px;
@@ -4404,7 +4410,7 @@ textarea {
 
 .btn-sign-in,
 .btn--blue {
-    background-color: #44b1d5
+    background-color: #f95192
 }
 
 .vc_row:after,
@@ -5534,7 +5540,7 @@ body .bgcloud2 {
 }
 
 span.dexnew {
-    background-image: linear-gradient(90deg, #0EAD69 0%, #06472B 100%);
+    background-image: linear-gradient(90deg, #f95291 0%, #a32a58 100%);
     border-radius: 20px;
     color: #fff;
     display: inline-block;
@@ -5553,7 +5559,7 @@ ul.flex.dexlist {
 
 ul.flex.dexlist li {
     list-style: disc;
-    list-style-position: inside
+    list-style-position: inside;
 }
 
 ul.dexlist2 {
@@ -5741,10 +5747,457 @@ ul.dexlist2 {
     padding-left: 10px
 }
 .container0 .container {
-    padding: 0
+    padding: 30px
 }
 .blkbggrd2 {
     padding: 30px 15px
+}
+body .bgcloud2 {
+    background-image: url(data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E#}https://irocket.pro/wp-content/uploads/2024/10/green_cloud-150x150.webp), url(https://irocket.pro/wp-content/uploads/2024/10/cyan-blur-right-150x150.webp), url(https://irocket.pro/wp-content/uploads/2024/10/cyan-blur-right-150x150.webp) !important;
+    background-size: 800px 800px, 800px 800px, 600px 600px !important;
+    background-position: calc(50vw - 400px + 150px) 300px, calc(50vw - 300px - 200px) 550px, calc(50vw - 300px + 150px) 4100px !important;
+    background-repeat: no-repeat, no-repeat, no-repeat !important
+}
+body .bgcloud {
+    background-image: url(https://irocket.pro/wp-content/uploads/2024/10/cyan-blur-right-150x150.webp) !important;
+    background-size: 800px 800px !important;
+    background-position: calc(50vw - 400px) 150px !important;
+    background-repeat: no-repeat !important
+}
+.flex {
+    display: flex
+}
+.flex.col {
+    flex-direction: column
+}
+.flex.row {
+    flex-direction: row;
+    flex-wrap: wrap
+}
+.mob_roadmap img {
+    object-fit: contain;
+    align-self: flex-start;
+    max-width: 80px;
+    width: 80px;
+    height: auto
+}
+div.done {
+    margin-left: 0;
+    color: #fff;
+    font-size: 16px;
+    line-height: 1.2em
+}
+div.undone {
+    margin-left: 0;
+    color: #fff;
+    font-size: 16px;
+    line-height: 1.2em
+}
+.pl100 {
+    padding-left: 0
+}
+.handcoin img {
+    position: relative;
+    top: 30px;
+    left: 0;
+    width: 100%;
+    max-width: 100%;
+    height: auto
+}
+.vc_custom_1730219714610 {
+    margin-bottom: 0px !important;
+    background-position: 0 0 !important;
+    background-repeat: no-repeat !important
+}
+.vc_custom_1739120178133 {
+    margin-bottom: 0px !important
+}
+.vc_custom_1739120178133 {
+    margin-bottom: 0px !important
+}
+.vc_custom_1739120178133 {
+    margin-bottom: 0px !important
+}
+.vc_custom_1739120178133 {
+    margin-bottom: 0px !important
+}
+.vc_custom_1729694427830 {
+    padding-top: 30px !important;
+    padding-right: 15px !important;
+    padding-bottom: 30px !important;
+    padding-left: 15px !important;
+    border-radius: 20px !important
+}
+.vc_custom_1729704567970 {
+    margin-bottom: 0px !important
+}
+.vc_custom_1730032960340 {
+    margin-bottom: 0px !important
+}
+.vc_custom_1730032967937 {
+    margin-top: 10px !important;
+    margin-bottom: 0px !important
+}
+.vc_custom_1729540308502 {
+    margin-bottom: 0px !important
+}
+.vc_custom_1730033132076 {
+    margin-bottom: 10px !important
+}
+.vc_custom_1730033079582 {
+    margin-top: 0px !important;
+    margin-bottom: 0px !important
+}
+.vc_custom_1729704635439 {
+    margin-bottom: 0px !important
+}
+.vc_custom_1730008389541 {
+    margin-top: 0px !important;
+    margin-bottom: 0px !important
+}
+.vc_custom_1724230093607 {
+    margin-top: 0px !important;
+    margin-bottom: 0px !important
+}
+.vc_custom_1729704426154 {
+    margin-bottom: 0px !important
+}
+.vc_custom_1729704724407 {
+    margin-bottom: 0px !important
+}
+.vc_custom_1729696031294 {
+    margin-bottom: 0px !important
+}
+.vc_custom_1730223675946 {
+    margin-bottom: 0px !important
+}
+.vc_custom_1729668151375 {
+    margin-bottom: 0px !important
+}
+.vc_custom_1729867073649 {
+    margin-bottom: 0px !important
+}
+.vc_custom_1729867073649 {
+    margin-bottom: 0px !important
+}
+.vc_custom_1730035359602 {
+    margin-bottom: 0px !important
+}
+.vc_custom_1730035015543 {
+    margin-bottom: 0px !important
+}
+.vc_custom_1730035015543 {
+    margin-bottom: 0px !important
+}
+.vc_custom_1729964178847 {
+    margin-top: 0px !important;
+    margin-bottom: 0px !important
+}
+.vc_custom_1730033214178 {
+    margin-bottom: 0px !important
+}
+.vc_custom_1730035036450 {
+    margin-bottom: 0px !important
+}
+.vc_custom_1731049748912 {
+    margin-bottom: 0px !important
+}
+.vc_custom_1729866830827 {
+    margin-bottom: 0px !important
+}
+.vc_custom_1735197359389 {
+    margin-bottom: 0px !important
+}
+.vc_custom_1729866855967 {
+    margin-bottom: 0px !important
+}
+.vc_custom_1729585545042 {
+    margin-top: 0px !important;
+    margin-bottom: 0px !important
+}
+.vc_custom_1730265483881 {
+    margin-bottom: 0px !important;
+    border-radius: 10px !important
+}
+.vc_custom_1730265629517 {
+    margin-bottom: 0px !important
+}
+.vc_custom_1730265629517 {
+    margin-bottom: 0px !important
+}
+.vc_custom_1730265629517 {
+    margin-bottom: 0px !important
+}
+.vc_custom_1730265636217 {
+    margin-bottom: 0px !important;
+    border-radius: 10px !important
+}
+.vc_custom_1730265636217 {
+    margin-bottom: 0px !important
+}
+.vc_custom_1730265636217 {
+    margin-bottom: 0px !important
+}
+.vc_custom_1730265647582 {
+    margin-bottom: 0px !important;
+    border-radius: 10px !important
+}
+.vc_custom_1724516317352 {
+    margin-top: 0px !important;
+    padding-top: 0px !important;
+    padding-right: 0px !important;
+    padding-bottom: 0px !important;
+    padding-left: 0px !important
+}
+.vc_custom_1729622894744 {
+    margin-bottom: 0px !important
+}
+.vc_custom_1729622666633 {
+    margin-top: 0px !important;
+    margin-bottom: 0px !important
+}
+.vc_custom_1723974791749 {
+    margin-bottom: 0px !important
+}
+.vc_custom_1729623214514 {
+    margin-top: 0px !important;
+    margin-bottom: 0px !important
+}
+.vc_custom_1729578033356 {
+    margin-bottom: 0px !important
+}
+.vc_custom_1730218381038 {
+    margin-top: 120px !important;
+    margin-bottom: 0px !important
+}
+.vc_custom_1730218381038 {
+    margin-top: 90px !important
+}
+.vc_custom_1730218381038 {
+    margin-top: 60px !important
+}
+.vc_custom_1729577981547 {
+    margin-bottom: 0px !important
+}
+.vc_custom_1730219547275 {
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+    padding-top: 0px !important;
+    padding-bottom: 0px !important
+}
+.vc_custom_1730219547275 {
+    margin-bottom: 0px !important
+}
+.vc_custom_1730218965585 {
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+    padding-top: 0px !important;
+    padding-bottom: 0px !important
+}
+.vc_custom_1730218965585 {
+    margin-bottom: 0px !important
+}
+.vc_custom_1730218965585 {
+    margin-bottom: 0px !important
+}
+.vc_custom_1730213147559 {
+    margin-bottom: 0px !important;
+    border-radius: 20px !important
+}
+.vc_custom_1730031377665 {
+    margin-top: 0px !important;
+    margin-bottom: 0px !important
+}
+.vc_custom_1730031386465 {
+    margin-bottom: 0px !important
+}
+.vc_custom_1730031394082 {
+    margin-bottom: 0px !important
+}
+.vc_custom_1730031402055 {
+    margin-bottom: 0px !important
+}
+.vc_custom_1729695965199 {
+    margin-bottom: 0px !important
+}
+.vc_custom_1730218440918 {
+    margin-top: 0px !important
+}
+.vc_custom_1729695688516 {
+    margin-top: 0px !important;
+    margin-bottom: 0px !important
+}
+.vc_custom_1729695701611 {
+    margin-bottom: 0px !important
+}
+.vc_custom_1730219007225 {
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+    padding-top: 0px !important;
+    padding-bottom: 0px !important
+}
+.vc_custom_1730218995660 {
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+    padding-top: 0px !important;
+    padding-bottom: 0px !important
+}
+.vc_custom_1730219012325 {
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+    padding-top: 0px !important;
+    padding-bottom: 0px !important
+}
+.vc_custom_1730218920314 {
+    margin-top: 0px !important;
+    margin-bottom: 0px !important
+}
+.vc_custom_1729575528187 {
+    margin-top: 0px !important;
+    margin-bottom: 0px !important
+}
+.vc_custom_1729575532906 {
+    margin-top: 0px !important;
+    margin-bottom: 0px !important
+}
+.vc_custom_1729574784118 {
+    margin-bottom: 0px !important
+}
+.vc_custom_1730035248137 {
+    margin-bottom: 0px !important;
+    padding-top: 0px !important;
+    padding-bottom: 0px !important
+}
+.vc_custom_1730220386368 {
+    margin-top: 10px !important;
+    margin-bottom: 0px !important;
+    padding-top: 0px !important;
+    padding-bottom: 0px !important
+}
+.vc_custom_1729585949654 {
+    margin-bottom: 0px !important;
+    padding-top: 0px !important;
+    padding-bottom: 0px !important
+}
+.vc_custom_1730009039617 {
+    margin-bottom: 0px !important
+}
+.vc_custom_1730035289395 {
+    margin-bottom: 0px !important;
+    padding-top: 0px !important;
+    padding-bottom: 0px !important
+}
+.vc_custom_1730035654344 {
+    margin-bottom: 0px !important
+}
+.vc_custom_1730010417440 {
+    margin-bottom: 0px !important
+}
+.vc_custom_1730010560003 {
+    margin-bottom: 0px !important
+}
+.vc_custom_1730010560003 {
+    margin-bottom: 0px !important
+}
+.vc_custom_1730010560003 {
+    margin-bottom: 0px !important
+}
+.vc_custom_1730010560003 {
+    margin-bottom: 0px !important
+}
+.vc_custom_1730035112669 {
+    margin-bottom: 0px !important
+}
+.vc_custom_1730035112669 {
+    margin-bottom: 0px !important
+}
+.vc_custom_1730035624379 {
+    margin-bottom: 0px !important
+}
+.vc_custom_1730035624379 {
+    margin-bottom: 0px !important
+}
+.vc_custom_1730010710887 {
+    padding-top: 0px !important;
+    padding-bottom: 0px !important
+}
+.vc_custom_1729405274674 {
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+    padding-top: 0px !important;
+    padding-bottom: 0px !important
+}
+.mega_uae_btn_204 .maw_advanced_btn {
+    text-transform: default !important;
+    font-style: default !important;
+    text-decoration: default !important;
+    box-none: 0 10px 20px rgb(0 0 0 / .3) !important
+}
+.mega_uae_btn_204 .maw_advanced_btn .icon__left {
+    font-size: 18px !important;
+    padding-right: 5px !important
+}
+.mega_uae_btn_451 .maw_advanced_btn {
+    text-transform: default !important;
+    font-style: default !important;
+    text-decoration: default !important;
+    box-none: 0 10px 20px rgb(0 0 0 / .3) !important
+}
+.mega_uae_btn_451 .maw_advanced_btn .icon__left {
+    font-size: 18px !important;
+    padding-right: 5px !important
+}
+.mega_uae_btn_260 .maw_advanced_btn {
+    text-transform: default !important;
+    font-style: default !important;
+    text-decoration: default !important;
+    box-none: 0 10px 20px rgb(0 0 0 / .3) !important
+}
+.mega_uae_btn_260 .maw_advanced_btn .icon__left {
+    font-size: 18px !important;
+    padding-right: 5px !important
+}
+.mega_uae_btn_379 .maw_advanced_btn {
+    text-transform: default !important;
+    font-style: default !important;
+    text-decoration: default !important;
+    box-none: 0 10px 20px rgb(0 0 0 / .3) !important
+}
+.mega_uae_btn_379 .maw_advanced_btn .icon__left {
+    font-size: 18px !important;
+    padding-right: 5px !important
+}
+.mega_uae_btn_484 .maw_advanced_btn {
+    text-transform: default !important;
+    font-style: default !important;
+    text-decoration: default !important;
+    box-none: 0 10px 20px rgb(0 0 0 / .3) !important
+}
+.mega_uae_btn_484 .maw_advanced_btn .icon__left {
+    font-size: 18px !important;
+    padding-right: 5px !important
+}
+.maw_advanced_btn {
+    float: left;
+    display: block;
+    padding: 7px 20px;
+    text-decoration: none;
+    border: none;
+    background: 0 0;
+    color: inherit;
+    vertical-align: middle;
+    position: relative;
+    z-index: 1;
+    -webkit-backface-visibility: hidden;
+    -moz-osx-font-smoothing: grayscale;
+    color: #37474f;
+    box-shadow: none;
+    text-align: center
+}
+.maw_advanced_btn.hvr-fade {
+    -webkit-transition: all .4s;
+    -moz-transition: all .4s;
+    transition: all .4s
 }
 }
 /* @media (max-width:768px) {
