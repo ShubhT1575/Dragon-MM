@@ -10,20 +10,20 @@ const Header = () => {
             {" "}
             <img
               decoding="async"
-              className="static-logo"
-              src="https://irocket.pro/wp-content/uploads/logo-site.png"
+              className="static-logo logo-mm"
+              src="/Dragon Mm 3.png"  
               width={280}
               height={77}
               alt="Logo"
             />{" "}
-            <img
+            {/* <img
               decoding="async"
               className="sticky-logo"
               src="https://irocket.pro/wp-content/uploads/logo-site.png"
               width={280}
               height={77}
               alt="Logo"
-            />{" "}
+            />{" "} */}
           </div>
         </a>
         <div className="menu-primary-container">

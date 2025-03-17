@@ -24,7 +24,7 @@ const Hero = () => {
                     data-res-css=" @media only screen and (max-width: 576px) {.vc_custom_1729273966487{margin-top: 0px !important;margin-bottom: 0px !important;}}"
                   >
                     <div className="wpb_single_image wpb_content_element vc_align_left absolute token1 deskonly ">
-                      <figure className="wpb_wrapper vc_figure">
+                      {/* <figure className="wpb_wrapper vc_figure">
                         <div className="vc_single_image-wrapper vc_box_border_grey">
                           <img
                             fetchpriority="high"
@@ -50,10 +50,10 @@ const Hero = () => {
                             data-sizes="(max-width: 400px) 100vw, 400px"
                           />
                         </div>
-                      </figure>
+                      </figure> */}
                     </div>
                     <div className="wpb_single_image wpb_content_element vc_align_left absolute token2 deskonly ">
-                      <figure className="wpb_wrapper vc_figure">
+                      {/* <figure className="wpb_wrapper vc_figure">
                         <div className="vc_single_image-wrapper vc_box_border_grey">
                           <img
                             decoding="async"
@@ -73,10 +73,10 @@ const Hero = () => {
                             alt
                           />
                         </div>
-                      </figure>
+                      </figure> */}
                     </div>
                     <div className="wpb_single_image wpb_content_element vc_align_left absolute token3 deskonly ">
-                      <figure className="wpb_wrapper vc_figure">
+                      {/* <figure className="wpb_wrapper vc_figure">
                         <div className="vc_single_image-wrapper vc_box_border_grey">
                           <img
                             decoding="async"
@@ -96,7 +96,7 @@ const Hero = () => {
                             alt
                           />
                         </div>
-                      </figure>
+                      </figure> */}
                     </div>
                   </div>
                 </div>
@@ -184,6 +184,7 @@ const Hero = () => {
                               style={{
                                 justifyContent: "center",
                                 display: "flex",
+                                background: "#272a2c"
                               }}
                             >
                               {" "}
@@ -222,7 +223,7 @@ const Hero = () => {
                       className="wpb_single_image wpb_content_element vc_align_left absolute token4 deskonly "
                       data-res-css=" @media only screen and (max-width: 768px) {.{margin-top: 50px !important;}} @media only screen and (max-width: 576px) {.{margin-top: 50px !important;}}"
                     >
-                      <figure className="wpb_wrapper vc_figure">
+                      {/* <figure className="wpb_wrapper vc_figure">
                         <div className="vc_single_image-wrapper vc_box_border_grey">
                           <img
                             decoding="async"
@@ -246,10 +247,10 @@ const Hero = () => {
                             data-sizes="(max-width: 386px) 100vw, 386px"
                           />
                         </div>
-                      </figure>
+                      </figure> */}
                     </div>
                     <div className="wpb_single_image wpb_content_element vc_align_left absolute token5 deskonly ">
-                      <figure className="wpb_wrapper vc_figure">
+                      {/* <figure className="wpb_wrapper vc_figure">
                         <div className="vc_single_image-wrapper vc_box_border_grey">
                           <img
                             decoding="async"
@@ -273,7 +274,7 @@ const Hero = () => {
                             data-sizes="(max-width: 537px) 100vw, 537px"
                           />
                         </div>
-                      </figure>
+                      </figure> */}
                     </div>
                   </div>
                 </div>

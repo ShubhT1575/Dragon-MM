@@ -7,7 +7,7 @@ const MMTools = () => {
         <section
           data-vc-full-width="true"
           data-vc-full-width-init="false"
-          className="vc_section bgcloud container0 vc_custom_1730219714610 vc_section-has-fill vc_section-o-content-top vc_section-flex"
+          className="vc_section  container0 vc_custom_1730219714610 vc_section-has-fill vc_section-o-content-top vc_section-flex"
         >
           <div className="container">
             <div
@@ -122,7 +122,7 @@ const MMTools = () => {
             <div className="vc_row-full-width vc_clearfix" />
           </div>
           <div className="container">
-            <div className="ult-responsive vc_row wpb_row vc_row-fluid blkbggrd mt80 vc_custom_1729694427830 vc_row-has-fill">
+            <div className="ult-responsive vc_row wpb_row vc_row-fluid blkbggrd mt80 vc_custom_1729694427830 vc_row-has-fill bg-seed">
               <div className="wpb_column vc_column_container vc_col-sm-12">
                 <div className="vc_column-inner">
                   <div className="wpb_wrapper ">
@@ -398,7 +398,7 @@ const MMTools = () => {
         <section
           data-vc-full-width="true"
           data-vc-full-width-init="false"
-          className="vc_section visible bgcloud2 mt120 vc_section-o-content-top vc_section-flex"
+          className="vc_section visible  mt120 vc_section-o-content-top vc_section-flex"
         >
           <div className="container">
             <div
@@ -1533,7 +1533,7 @@ for market making"
                         </div>
                       </div>
                     </div>
-                    <div className="vc_row wpb_row vc_inner vc_row-fluid blkbggrd2 mt120 mh400 vc_custom_1730213147559 vc_row-has-fill">
+                    <div className="vc_row wpb_row vc_inner vc_row-fluid blkbggrd2 mt120 mh400 vc_custom_1730213147559 vc_row-has-fill bg-seed">
                       <div className="wpb_column vc_column_container vc_col-sm-6">
                         <div className="vc_column-inner ">
                           <div className="wpb_wrapper ">
@@ -1645,7 +1645,7 @@ for market making"
               </div>
             </div>
           </div>
-          <section className="vc_section bt1 dexfoot vc_custom_1730034224028">
+          <section className="vc_section bt1 dexfoot vc_custom_1730034224028 footer-section"  style={{marginTop: "19px"}}>
           <div className="container">
             <div
               id="contact"

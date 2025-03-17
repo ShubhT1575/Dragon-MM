@@ -13,6 +13,9 @@ body{
 .bg-seed{
     background:#272a2c !important;
 }
+.logo-mm{
+    height: 50px !important;
+}
 
 @media (min-width: 320px) and (max-width: 480px) {
     .bg-pancakeswap:not(.two_bg) {
@@ -1172,7 +1175,7 @@ textarea {
 }
 
 .nt-img-logo img {
-    height: 77px !important
+    height: 50px !important
 }
 
 .nt-img-logo img {
@@ -4360,7 +4363,7 @@ textarea {
 }
 
 .nt-img-logo img {
-    height: 77px !important
+    height: 50px !important
 }
 
 .nt-img-logo img {
@@ -5511,7 +5514,7 @@ li.dexok {
     flex-direction: column;
     gap: 10px;
     padding: 20px;
-    background-color: #063443 !important;
+    background-color: #272a2c !important;
     color: #fff;
     border-radius: 20px;
     margin-bottom: 10px
