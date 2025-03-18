@@ -840,7 +840,7 @@ for market making"
                             decoding="async"
                             width={600}
                             height={383}
-                            src="/notebook.webp"
+                            src="/YOT.png"
                             className="vc_single_image-img attachment-full"
                             alt
                             // srcSet="/notebook.webp 600w, https://irocket.pro/wp-content/uploads/2024/10/notebook2-300x192.webp 300w"

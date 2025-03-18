@@ -186,7 +186,7 @@ const DexVolume = () => {
                                     decoding="async"
                                     width={1874}
                                     height={1196}
-                                    src="/HHH.webp"
+                                    src="/YOT.png"
                                     className="vc_single_image-img attachment-full"
                                     alt
                                     // srcSet="https://irocket.pro/wp-content/uploads/2024/10/note-phone.webp 1874w, https://irocket.pro/wp-content/uploads/2024/10/note-phone-300x191.webp 300w, https://irocket.pro/wp-content/uploads/2024/10/note-phone-1024x654.webp 1024w, https://irocket.pro/wp-content/uploads/2024/10/note-phone-768x490.webp 768w, https://irocket.pro/wp-content/uploads/2024/10/note-phone-1536x980.webp 1536w, https://irocket.pro/wp-content/uploads/2024/10/note-phone-600x383.webp 600w"
