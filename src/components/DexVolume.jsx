@@ -186,7 +186,7 @@ const DexVolume = () => {
                                     decoding="async"
                                     width={1874}
                                     height={1196}
-                                    src="src/assets/HHH.webp"
+                                    src="/HHH.webp"
                                     className="vc_single_image-img attachment-full"
                                     alt
                                     // srcSet="https://irocket.pro/wp-content/uploads/2024/10/note-phone.webp 1874w, https://irocket.pro/wp-content/uploads/2024/10/note-phone-300x191.webp 300w, https://irocket.pro/wp-content/uploads/2024/10/note-phone-1024x654.webp 1024w, https://irocket.pro/wp-content/uploads/2024/10/note-phone-768x490.webp 768w, https://irocket.pro/wp-content/uploads/2024/10/note-phone-1536x980.webp 1536w, https://irocket.pro/wp-content/uploads/2024/10/note-phone-600x383.webp 600w"
@@ -399,7 +399,7 @@ const DexVolume = () => {
                             <img
                               decoding="async"
                               className="vc_single_image-img "
-                              src="src/assets/-beginner.webp"
+                              src="/-beginner.webp"
                               width={32}
                               height={32}
                               alt="💡 Beginner"
@@ -409,7 +409,7 @@ const DexVolume = () => {
                               decoding="async"
                               className=" lazy  vc_single_image-img "
                               src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2032%2032%22%3E%3C/svg%3E"
-                              data-src="src/assets/-beginner.webp"
+                              data-src="/-beginner.webp"
                               width={32}
                               height={32}
                               alt="💡 Beginner"
@@ -444,7 +444,7 @@ const DexVolume = () => {
                               decoding="async"
                               width={32}
                               height={32}
-                              src="src/assets/-advanced-1.webp"
+                              src="/-advanced-1.webp"
                               className="vc_single_image-img attachment-thumbnail"
                               alt="Market Maker Tools - Volume on DEX"
                             />
@@ -454,7 +454,7 @@ const DexVolume = () => {
                               width={32}
                               height={32}
                               src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2032%2032%22%3E%3C/svg%3E"
-                              data-src="src/assets/-advanced-1.webp"
+                              data-src="/-advanced-1.webp"
                               className=" lazy  vc_single_image-img attachment-thumbnail"
                               alt="Market Maker Tools - Volume on DEX"
                             /> */}
@@ -487,7 +487,7 @@ const DexVolume = () => {
                               decoding="async"
                               width={32}
                               height={32}
-                              src="src/assets/-pro.webp"
+                              src="/-pro.webp"
                               className="vc_single_image-img attachment-thumbnail"
                               alt="Market Maker Tools - Volume on DEX"
                             />
@@ -530,7 +530,7 @@ const DexVolume = () => {
                               decoding="async"
                               width={32}
                               height={32}
-                              src="src/assets/-rocket.webp"
+                              src="/-rocket.webp"
                               className="vc_single_image-img attachment-thumbnail"
                               alt="Market Maker Tools - Volume on DEX"
                             />
@@ -639,10 +639,10 @@ const DexVolume = () => {
                                     decoding="async"
                                     width={1110}
                                     height={404}
-                                    src="src/assets/1-chart-png.webp"
+                                    src="/1-chart-png.webp"
                                     className="vc_single_image-img attachment-full"
                                     alt
-                                    // srcSet="src/assets/1-chart-png.webp 1110w, https://irocket.pro/wp-content/uploads/2024/10/1-chart-300x109.webp 300w, https://irocket.pro/wp-content/uploads/2024/10/1-chart-1024x373.webp 1024w, https://irocket.pro/wp-content/uploads/2024/10/1-chart-768x280.webp 768w, https://irocket.pro/wp-content/uploads/2024/10/1-chart-600x218.webp 600w"
+                                    // srcSet="/1-chart-png.webp 1110w, https://irocket.pro/wp-content/uploads/2024/10/1-chart-300x109.webp 300w, https://irocket.pro/wp-content/uploads/2024/10/1-chart-1024x373.webp 1024w, https://irocket.pro/wp-content/uploads/2024/10/1-chart-768x280.webp 768w, https://irocket.pro/wp-content/uploads/2024/10/1-chart-600x218.webp 600w"
                                     sizes="(max-width: 1110px) 100vw, 1110px"
                                   />
                                   {/* <img
@@ -650,10 +650,10 @@ const DexVolume = () => {
                                     width={1110}
                                     height={404}
                                     src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%201110%20404%22%3E%3C/svg%3E"
-                                    data-src="src/assets/1-chart-png.webp"
+                                    data-src="/1-chart-png.webp"
                                     className=" lazy  vc_single_image-img attachment-full"
                                     alt
-                                    data-srcset="src/assets/1-chart-png.webp 1110w, https://irocket.pro/wp-content/uploads/2024/10/1-chart-300x109.webp 300w, https://irocket.pro/wp-content/uploads/2024/10/1-chart-1024x373.webp 1024w, https://irocket.pro/wp-content/uploads/2024/10/1-chart-768x280.webp 768w, https://irocket.pro/wp-content/uploads/2024/10/1-chart-600x218.webp 600w"
+                                    data-srcset="/1-chart-png.webp 1110w, https://irocket.pro/wp-content/uploads/2024/10/1-chart-300x109.webp 300w, https://irocket.pro/wp-content/uploads/2024/10/1-chart-1024x373.webp 1024w, https://irocket.pro/wp-content/uploads/2024/10/1-chart-768x280.webp 768w, https://irocket.pro/wp-content/uploads/2024/10/1-chart-600x218.webp 600w"
                                     data-sizes="(max-width: 1110px) 100vw, 1110px"
                                   /> */}
                                 </div>
@@ -666,10 +666,10 @@ const DexVolume = () => {
                                     decoding="async"
                                     width={1110}
                                     height={404}
-                                    src="src/assets/2-chart-png.webp"
+                                    src="/2-chart-png.webp"
                                     className="vc_single_image-img attachment-full"
                                     alt
-                                    // srcSet="src/assets/2-chart-png.webp 1110w, https://irocket.pro/wp-content/uploads/2024/10/2-chart-300x109.webp 300w, https://irocket.pro/wp-content/uploads/2024/10/2-chart-1024x373.webp 1024w, https://irocket.pro/wp-content/uploads/2024/10/2-chart-768x280.webp 768w, https://irocket.pro/wp-content/uploads/2024/10/2-chart-600x218.webp 600w"
+                                    // srcSet="/2-chart-png.webp 1110w, https://irocket.pro/wp-content/uploads/2024/10/2-chart-300x109.webp 300w, https://irocket.pro/wp-content/uploads/2024/10/2-chart-1024x373.webp 1024w, https://irocket.pro/wp-content/uploads/2024/10/2-chart-768x280.webp 768w, https://irocket.pro/wp-content/uploads/2024/10/2-chart-600x218.webp 600w"
                                     sizes="(max-width: 1110px) 100vw, 1110px"
                                   />
                                   {/* <img
@@ -677,10 +677,10 @@ const DexVolume = () => {
                                     width={1110}
                                     height={404}
                                     src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%201110%20404%22%3E%3C/svg%3E"
-                                    data-src="src/assets/2-chart-png.webp"
+                                    data-src="/2-chart-png.webp"
                                     className=" lazy  vc_single_image-img attachment-full"
                                     alt
-                                    data-srcset="src/assets/2-chart-png.webp 1110w, https://irocket.pro/wp-content/uploads/2024/10/2-chart-300x109.webp 300w, https://irocket.pro/wp-content/uploads/2024/10/2-chart-1024x373.webp 1024w, https://irocket.pro/wp-content/uploads/2024/10/2-chart-768x280.webp 768w, https://irocket.pro/wp-content/uploads/2024/10/2-chart-600x218.webp 600w"
+                                    data-srcset="/2-chart-png.webp 1110w, https://irocket.pro/wp-content/uploads/2024/10/2-chart-300x109.webp 300w, https://irocket.pro/wp-content/uploads/2024/10/2-chart-1024x373.webp 1024w, https://irocket.pro/wp-content/uploads/2024/10/2-chart-768x280.webp 768w, https://irocket.pro/wp-content/uploads/2024/10/2-chart-600x218.webp 600w"
                                     data-sizes="(max-width: 1110px) 100vw, 1110px"
                                   /> */}
                                 </div>
@@ -693,10 +693,10 @@ const DexVolume = () => {
                                     decoding="async"
                                     width={1110}
                                     height={404}
-                                    src="src/assets/3-chart-png.webp"
+                                    src="/3-chart-png.webp"
                                     className="vc_single_image-img attachment-full"
                                     alt
-                                    // srcSet="src/assets/3-chart-png.webp 1110w, https://irocket.pro/wp-content/uploads/2024/10/3-chart-300x109.webp 300w, https://irocket.pro/wp-content/uploads/2024/10/3-chart-1024x373.webp 1024w, https://irocket.pro/wp-content/uploads/2024/10/3-chart-768x280.webp 768w, https://irocket.pro/wp-content/uploads/2024/10/3-chart-600x218.webp 600w"
+                                    // srcSet="/3-chart-png.webp 1110w, https://irocket.pro/wp-content/uploads/2024/10/3-chart-300x109.webp 300w, https://irocket.pro/wp-content/uploads/2024/10/3-chart-1024x373.webp 1024w, https://irocket.pro/wp-content/uploads/2024/10/3-chart-768x280.webp 768w, https://irocket.pro/wp-content/uploads/2024/10/3-chart-600x218.webp 600w"
                                     sizes="(max-width: 1110px) 100vw, 1110px"
                                   />
                                   {/* <img
@@ -704,10 +704,10 @@ const DexVolume = () => {
                                     width={1110}
                                     height={404}
                                     src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%201110%20404%22%3E%3C/svg%3E"
-                                    data-src="src/assets/3-chart-png.webp"
+                                    data-src="/3-chart-png.webp"
                                     className=" lazy  vc_single_image-img attachment-full"
                                     alt
-                                    data-srcset="src/assets/3-chart-png.webp 1110w, https://irocket.pro/wp-content/uploads/2024/10/3-chart-300x109.webp 300w, https://irocket.pro/wp-content/uploads/2024/10/3-chart-1024x373.webp 1024w, https://irocket.pro/wp-content/uploads/2024/10/3-chart-768x280.webp 768w, https://irocket.pro/wp-content/uploads/2024/10/3-chart-600x218.webp 600w"
+                                    data-srcset="/3-chart-png.webp 1110w, https://irocket.pro/wp-content/uploads/2024/10/3-chart-300x109.webp 300w, https://irocket.pro/wp-content/uploads/2024/10/3-chart-1024x373.webp 1024w, https://irocket.pro/wp-content/uploads/2024/10/3-chart-768x280.webp 768w, https://irocket.pro/wp-content/uploads/2024/10/3-chart-600x218.webp 600w"
                                     data-sizes="(max-width: 1110px) 100vw, 1110px"
                                   /> */}
                                 </div>
@@ -720,10 +720,10 @@ const DexVolume = () => {
                                     decoding="async"
                                     width={1110}
                                     height={396}
-                                    src="src/assets/4-chart-png.webp"
+                                    src="/4-chart-png.webp"
                                     className="vc_single_image-img attachment-full"
                                     alt
-                                    // srcSet="src/assets/4-chart-png.webp 1110w, https://irocket.pro/wp-content/uploads/2024/10/4-chart-300x107.webp 300w, https://irocket.pro/wp-content/uploads/2024/10/4-chart-1024x365.webp 1024w, https://irocket.pro/wp-content/uploads/2024/10/4-chart-768x274.webp 768w, https://irocket.pro/wp-content/uploads/2024/10/4-chart-600x214.webp 600w"
+                                    // srcSet="/4-chart-png.webp 1110w, https://irocket.pro/wp-content/uploads/2024/10/4-chart-300x107.webp 300w, https://irocket.pro/wp-content/uploads/2024/10/4-chart-1024x365.webp 1024w, https://irocket.pro/wp-content/uploads/2024/10/4-chart-768x274.webp 768w, https://irocket.pro/wp-content/uploads/2024/10/4-chart-600x214.webp 600w"
                                     sizes="(max-width: 1110px) 100vw, 1110px"
                                   />
                                   {/* <img
@@ -731,10 +731,10 @@ const DexVolume = () => {
                                     width={1110}
                                     height={396}
                                     src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%201110%20396%22%3E%3C/svg%3E"
-                                    data-src="src/assets/4-chart-png.webp"
+                                    data-src="/4-chart-png.webp"
                                     className=" lazy  vc_single_image-img attachment-full"
                                     alt
-                                    data-srcset="src/assets/4-chart-png.webp 1110w, https://irocket.pro/wp-content/uploads/2024/10/4-chart-300x107.webp 300w, https://irocket.pro/wp-content/uploads/2024/10/4-chart-1024x365.webp 1024w, https://irocket.pro/wp-content/uploads/2024/10/4-chart-768x274.webp 768w, https://irocket.pro/wp-content/uploads/2024/10/4-chart-600x214.webp 600w"
+                                    data-srcset="/4-chart-png.webp 1110w, https://irocket.pro/wp-content/uploads/2024/10/4-chart-300x107.webp 300w, https://irocket.pro/wp-content/uploads/2024/10/4-chart-1024x365.webp 1024w, https://irocket.pro/wp-content/uploads/2024/10/4-chart-768x274.webp 768w, https://irocket.pro/wp-content/uploads/2024/10/4-chart-600x214.webp 600w"
                                     data-sizes="(max-width: 1110px) 100vw, 1110px"
                                   /> */}
                                 </div>

@@ -83,10 +83,10 @@ const MMTools = () => {
                             decoding="async"
                             width={600}
                             height={471}
-                            src="src/assets/mobile-mmt-png.webp"
+                            src="/mobile-mmt-png.webp"
                             className="vc_single_image-img attachment-large"
                             alt
-                            // srcSet="src/assets/mobile-mmt-png.webp 600w, https://irocket.pro/wp-content/uploads/2024/10/mobile-mmt-300x236.webp 300w"
+                            // srcSet="/mobile-mmt-png.webp 600w, https://irocket.pro/wp-content/uploads/2024/10/mobile-mmt-300x236.webp 300w"
                             sizes="(max-width: 600px) 100vw, 600px"
                           />
                         </div>
@@ -160,10 +160,10 @@ const MMTools = () => {
                                     decoding="async"
                                     width={1050}
                                     height={724}
-                                    src="src/assets/deximg-png.webp"
+                                    src="/deximg-png.webp"
                                     className="vc_single_image-img attachment-full"
                                     alt
-                                    // srcSet="src/assets/deximg-png.webp 1050w, https://irocket.pro/wp-content/uploads/2024/10/deximg-300x207.webp 300w, https://irocket.pro/wp-content/uploads/2024/10/deximg-1024x706.webp 1024w, https://irocket.pro/wp-content/uploads/2024/10/deximg-768x530.webp 768w, https://irocket.pro/wp-content/uploads/2024/10/deximg-600x414.webp 600w"
+                                    // srcSet="/deximg-png.webp 1050w, https://irocket.pro/wp-content/uploads/2024/10/deximg-300x207.webp 300w, https://irocket.pro/wp-content/uploads/2024/10/deximg-1024x706.webp 1024w, https://irocket.pro/wp-content/uploads/2024/10/deximg-768x530.webp 768w, https://irocket.pro/wp-content/uploads/2024/10/deximg-600x414.webp 600w"
                                     sizes="(max-width: 1050px) 100vw, 1050px"
                                   />
                                   {/* <img
@@ -171,10 +171,10 @@ const MMTools = () => {
                                     width={1050}
                                     height={724}  
                                     src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%201050%20724%22%3E%3C/svg%3E"
-                                    data-src="src/assets/deximg-png.webp"
+                                    data-src="/deximg-png.webp"
                                     className=" lazy  vc_single_image-img attachment-full"
                                     alt
-                                    data-srcset="src/assets/deximg-png.webp 1050w, https://irocket.pro/wp-content/uploads/2024/10/deximg-300x207.webp 300w, https://irocket.pro/wp-content/uploads/2024/10/deximg-1024x706.webp 1024w, https://irocket.pro/wp-content/uploads/2024/10/deximg-768x530.webp 768w, https://irocket.pro/wp-content/uploads/2024/10/deximg-600x414.webp 600w"
+                                    data-srcset="/deximg-png.webp 1050w, https://irocket.pro/wp-content/uploads/2024/10/deximg-300x207.webp 300w, https://irocket.pro/wp-content/uploads/2024/10/deximg-1024x706.webp 1024w, https://irocket.pro/wp-content/uploads/2024/10/deximg-768x530.webp 768w, https://irocket.pro/wp-content/uploads/2024/10/deximg-600x414.webp 600w"
                                     data-sizes="(max-width: 1050px) 100vw, 1050px"
                                   /> */}
                                 </div>
@@ -263,10 +263,10 @@ const MMTools = () => {
                                     decoding="async"
                                     width={1050}
                                     height={724}
-                                    src="src/assets/deximg-png.webp"
+                                    src="/deximg-png.webp"
                                     className="vc_single_image-img attachment-full"
                                     alt
-                                    srcSet="src/assets/deximg-png.webp 1050w, https://irocket.pro/wp-content/uploads/2024/10/deximg-300x207.webp 300w, https://irocket.pro/wp-content/uploads/2024/10/deximg-1024x706.webp 1024w, https://irocket.pro/wp-content/uploads/2024/10/deximg-768x530.webp 768w, https://irocket.pro/wp-content/uploads/2024/10/deximg-600x414.webp 600w"
+                                    // srcSet="/deximg-png.webp 1050w, https://irocket.pro/wp-content/uploads/2024/10/deximg-300x207.webp 300w, https://irocket.pro/wp-content/uploads/2024/10/deximg-1024x706.webp 1024w, https://irocket.pro/wp-content/uploads/2024/10/deximg-768x530.webp 768w, https://irocket.pro/wp-content/uploads/2024/10/deximg-600x414.webp 600w"
                                     sizes="(max-width: 1050px) 100vw, 1050px"
                                   />
                                   {/* <img
@@ -274,10 +274,10 @@ const MMTools = () => {
                                     width={1050}
                                     height={724}
                                     src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%201050%20724%22%3E%3C/svg%3E"
-                                    data-src="src/assets/deximg-png.webp"
+                                    data-src="/deximg-png.webp"
                                     className=" lazy  vc_single_image-img attachment-full"
                                     alt
-                                    data-srcset="src/assets/deximg-png.webp 1050w, https://irocket.pro/wp-content/uploads/2024/10/deximg-300x207.webp 300w, https://irocket.pro/wp-content/uploads/2024/10/deximg-1024x706.webp 1024w, https://irocket.pro/wp-content/uploads/2024/10/deximg-768x530.webp 768w, https://irocket.pro/wp-content/uploads/2024/10/deximg-600x414.webp 600w"
+                                    data-srcset="/deximg-png.webp 1050w, https://irocket.pro/wp-content/uploads/2024/10/deximg-300x207.webp 300w, https://irocket.pro/wp-content/uploads/2024/10/deximg-1024x706.webp 1024w, https://irocket.pro/wp-content/uploads/2024/10/deximg-768x530.webp 768w, https://irocket.pro/wp-content/uploads/2024/10/deximg-600x414.webp 600w"
                                     data-sizes="(max-width: 1050px) 100vw, 1050px"
                                   /> */}
                                 </div>
@@ -606,7 +606,7 @@ const MMTools = () => {
                             <img
                               decoding="async"
                               className="vc_single_image-img "
-                              src="src/assets/-beginner.webp"
+                              src="/-beginner.webp"
                               width={32}
                               height={32}
                               alt="💡 Beginner"
@@ -616,7 +616,7 @@ const MMTools = () => {
                               decoding="async"
                               className=" lazy  vc_single_image-img "
                               src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2032%2032%22%3E%3C/svg%3E"
-                              data-src="src/assets/-beginner.webp"
+                              data-src="/-beginner.webp"
                               width={32}
                               height={32}
                               alt="💡 Beginner"
@@ -651,7 +651,7 @@ const MMTools = () => {
                               decoding="async"
                               width={32}
                               height={32}
-                              src="src/assets/-advanced-1.webp"
+                              src="/-advanced-1.webp"
                               className="vc_single_image-img attachment-thumbnail"
                               alt="DEX Volume Bot 
 for market making"
@@ -662,7 +662,7 @@ for market making"
                               width={32}
                               height={32}
                               src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2032%2032%22%3E%3C/svg%3E"
-                              data-src="src/assets/-advanced-1.webp"
+                              data-src="/-advanced-1.webp"
                               className=" lazy  vc_single_image-img attachment-thumbnail"
                               alt="DEX Volume Bot 
 for market making"
@@ -696,7 +696,7 @@ for market making"
                               decoding="async"
                               width={32}
                               height={32}
-                              src="src/assets/-pro.webp"
+                              src="/-pro.webp"
                               className="vc_single_image-img attachment-thumbnail"
                               alt="DEX Volume Bot 
 for market making"
@@ -707,7 +707,7 @@ for market making"
                               width={32}
                               height={32}
                               src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2032%2032%22%3E%3C/svg%3E"
-                              data-src="src/assets/-pro.webp"
+                              data-src="/-pro.webp"
                               className=" lazy  vc_single_image-img attachment-thumbnail"
                               alt="DEX Volume Bot 
 for market making"
@@ -741,7 +741,7 @@ for market making"
                               decoding="async"
                               width={32}
                               height={32}
-                              src="src/assets/-rocket.webp"
+                              src="/-rocket.webp"
                               className="vc_single_image-img attachment-thumbnail"
                               alt="DEX Volume Bot 
 for market making"
@@ -752,7 +752,7 @@ for market making"
                               width={32}
                               height={32}
                               src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2032%2032%22%3E%3C/svg%3E"
-                              data-src="src/assets/-rocket.webp"
+                              data-src="/-rocket.webp"
                               className=" lazy  vc_single_image-img attachment-thumbnail"
                               alt="DEX Volume Bot 
 for market making"
@@ -840,10 +840,10 @@ for market making"
                             decoding="async"
                             width={600}
                             height={383}
-                            src="src/assets/notebook.webp"
+                            src="/notebook.webp"
                             className="vc_single_image-img attachment-full"
                             alt
-                            // srcSet="src/assets/notebook.webp 600w, https://irocket.pro/wp-content/uploads/2024/10/notebook2-300x192.webp 300w"
+                            // srcSet="/notebook.webp 600w, https://irocket.pro/wp-content/uploads/2024/10/notebook2-300x192.webp 300w"
                             sizes="(max-width: 600px) 100vw, 600px"
                           />
                           {/* <img
@@ -851,10 +851,10 @@ for market making"
                             width={600}
                             height={383}
                             src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20600%20383%22%3E%3C/svg%3E"
-                            data-src="src/assets/notebook.webp"
+                            data-src="/notebook.webp"
                             className=" lazy  vc_single_image-img attachment-full"
                             alt
-                            data-srcset="src/assets/notebook.webp 600w, https://irocket.pro/wp-content/uploads/2024/10/notebook2-300x192.webp 300w"
+                            data-srcset="/notebook.webp 600w, https://irocket.pro/wp-content/uploads/2024/10/notebook2-300x192.webp 300w"
                             data-sizes="(max-width: 600px) 100vw, 600px"
                           /> */}
                         </div>
@@ -967,10 +967,10 @@ for market making"
                                     decoding="async"
                                     width={1110}
                                     height={404}
-                                    src="src/assets/1-chart-png.webp"
+                                    src="/1-chart-png.webp"
                                     className="vc_single_image-img attachment-full"
                                     alt
-                                    // srcSet="src/assets/1-chart-png.webp 1110w, https://irocket.pro/wp-content/uploads/2024/10/1-chart-300x109.webp 300w, https://irocket.pro/wp-content/uploads/2024/10/1-chart-1024x373.webp 1024w, https://irocket.pro/wp-content/uploads/2024/10/1-chart-768x280.webp 768w, https://irocket.pro/wp-content/uploads/2024/10/1-chart-600x218.webp 600w"
+                                    // srcSet="/1-chart-png.webp 1110w, https://irocket.pro/wp-content/uploads/2024/10/1-chart-300x109.webp 300w, https://irocket.pro/wp-content/uploads/2024/10/1-chart-1024x373.webp 1024w, https://irocket.pro/wp-content/uploads/2024/10/1-chart-768x280.webp 768w, https://irocket.pro/wp-content/uploads/2024/10/1-chart-600x218.webp 600w"
                                     sizes="(max-width: 1110px) 100vw, 1110px"
                                   />
                                   {/* <img
@@ -978,10 +978,10 @@ for market making"
                                     width={1110}
                                     height={404}
                                     src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%201110%20404%22%3E%3C/svg%3E"
-                                    data-src="src/assets/1-chart-png.webp"
+                                    data-src="/1-chart-png.webp"
                                     className=" lazy  vc_single_image-img attachment-full"
                                     alt
-                                    data-srcset="src/assets/1-chart-png.webp 1110w, https://irocket.pro/wp-content/uploads/2024/10/1-chart-300x109.webp 300w, https://irocket.pro/wp-content/uploads/2024/10/1-chart-1024x373.webp 1024w, https://irocket.pro/wp-content/uploads/2024/10/1-chart-768x280.webp 768w, https://irocket.pro/wp-content/uploads/2024/10/1-chart-600x218.webp 600w"
+                                    data-srcset="/1-chart-png.webp 1110w, https://irocket.pro/wp-content/uploads/2024/10/1-chart-300x109.webp 300w, https://irocket.pro/wp-content/uploads/2024/10/1-chart-1024x373.webp 1024w, https://irocket.pro/wp-content/uploads/2024/10/1-chart-768x280.webp 768w, https://irocket.pro/wp-content/uploads/2024/10/1-chart-600x218.webp 600w"
                                     data-sizes="(max-width: 1110px) 100vw, 1110px"
                                   /> */}
                                 </div>
@@ -994,10 +994,10 @@ for market making"
                                     decoding="async"
                                     width={1110}
                                     height={404}
-                                    src="src/assets/2-chart-png.webp"
+                                    src="/2-chart-png.webp"
                                     className="vc_single_image-img attachment-full"
                                     alt
-                                    // srcSet="src/assets/2-chart-png.webp 1110w, https://irocket.pro/wp-content/uploads/2024/10/2-chart-300x109.webp 300w, https://irocket.pro/wp-content/uploads/2024/10/2-chart-1024x373.webp 1024w, https://irocket.pro/wp-content/uploads/2024/10/2-chart-768x280.webp 768w, https://irocket.pro/wp-content/uploads/2024/10/2-chart-600x218.webp 600w"
+                                    // srcSet="/2-chart-png.webp 1110w, https://irocket.pro/wp-content/uploads/2024/10/2-chart-300x109.webp 300w, https://irocket.pro/wp-content/uploads/2024/10/2-chart-1024x373.webp 1024w, https://irocket.pro/wp-content/uploads/2024/10/2-chart-768x280.webp 768w, https://irocket.pro/wp-content/uploads/2024/10/2-chart-600x218.webp 600w"
                                     sizes="(max-width: 1110px) 100vw, 1110px"
                                   />
                                   {/* <img
@@ -1005,10 +1005,10 @@ for market making"
                                     width={1110}
                                     height={404}
                                     src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%201110%20404%22%3E%3C/svg%3E"
-                                    data-src="src/assets/2-chart-png.webp"
+                                    data-src="/2-chart-png.webp"
                                     className=" lazy  vc_single_image-img attachment-full"
                                     alt
-                                    data-srcset="src/assets/2-chart-png.webp 1110w, https://irocket.pro/wp-content/uploads/2024/10/2-chart-300x109.webp 300w, https://irocket.pro/wp-content/uploads/2024/10/2-chart-1024x373.webp 1024w, https://irocket.pro/wp-content/uploads/2024/10/2-chart-768x280.webp 768w, https://irocket.pro/wp-content/uploads/2024/10/2-chart-600x218.webp 600w"
+                                    data-srcset="/2-chart-png.webp 1110w, https://irocket.pro/wp-content/uploads/2024/10/2-chart-300x109.webp 300w, https://irocket.pro/wp-content/uploads/2024/10/2-chart-1024x373.webp 1024w, https://irocket.pro/wp-content/uploads/2024/10/2-chart-768x280.webp 768w, https://irocket.pro/wp-content/uploads/2024/10/2-chart-600x218.webp 600w"
                                     data-sizes="(max-width: 1110px) 100vw, 1110px"
                                   /> */}
                                 </div>
@@ -1021,10 +1021,10 @@ for market making"
                                     decoding="async"
                                     width={1110}
                                     height={404}
-                                    src="src/assets/3-chart-png.webp"
+                                    src="/3-chart-png.webp"
                                     className="vc_single_image-img attachment-full"
                                     alt
-                                    // srcSet="src/assets/3-chart-png.webp 1110w, https://irocket.pro/wp-content/uploads/2024/10/3-chart-300x109.webp 300w, https://irocket.pro/wp-content/uploads/2024/10/3-chart-1024x373.webp 1024w, https://irocket.pro/wp-content/uploads/2024/10/3-chart-768x280.webp 768w, https://irocket.pro/wp-content/uploads/2024/10/3-chart-600x218.webp 600w"
+                                    // srcSet="/3-chart-png.webp 1110w, https://irocket.pro/wp-content/uploads/2024/10/3-chart-300x109.webp 300w, https://irocket.pro/wp-content/uploads/2024/10/3-chart-1024x373.webp 1024w, https://irocket.pro/wp-content/uploads/2024/10/3-chart-768x280.webp 768w, https://irocket.pro/wp-content/uploads/2024/10/3-chart-600x218.webp 600w"
                                     sizes="(max-width: 1110px) 100vw, 1110px"
                                   />
                                   {/* <img
@@ -1032,10 +1032,10 @@ for market making"
                                     width={1110}
                                     height={404}
                                     src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%201110%20404%22%3E%3C/svg%3E"
-                                    data-src="src/assets/3-chart-png.webp"
+                                    data-src="/3-chart-png.webp"
                                     className=" lazy  vc_single_image-img attachment-full"
                                     alt
-                                    data-srcset="src/assets/3-chart-png.webp 1110w, https://irocket.pro/wp-content/uploads/2024/10/3-chart-300x109.webp 300w, https://irocket.pro/wp-content/uploads/2024/10/3-chart-1024x373.webp 1024w, https://irocket.pro/wp-content/uploads/2024/10/3-chart-768x280.webp 768w, https://irocket.pro/wp-content/uploads/2024/10/3-chart-600x218.webp 600w"
+                                    data-srcset="/3-chart-png.webp 1110w, https://irocket.pro/wp-content/uploads/2024/10/3-chart-300x109.webp 300w, https://irocket.pro/wp-content/uploads/2024/10/3-chart-1024x373.webp 1024w, https://irocket.pro/wp-content/uploads/2024/10/3-chart-768x280.webp 768w, https://irocket.pro/wp-content/uploads/2024/10/3-chart-600x218.webp 600w"
                                     data-sizes="(max-width: 1110px) 100vw, 1110px"
                                   /> */}
                                 </div>
@@ -1048,10 +1048,10 @@ for market making"
                                     decoding="async"
                                     width={1110}
                                     height={396}
-                                    src="src/assets/4-chart-png.webp"
+                                    src="/4-chart-png.webp"
                                     className="vc_single_image-img attachment-full"
                                     alt
-                                    // srcSet="src/assets/4-chart-png.webp 1110w, https://irocket.pro/wp-content/uploads/2024/10/4-chart-300x107.webp 300w, https://irocket.pro/wp-content/uploads/2024/10/4-chart-1024x365.webp 1024w, https://irocket.pro/wp-content/uploads/2024/10/4-chart-768x274.webp 768w, https://irocket.pro/wp-content/uploads/2024/10/4-chart-600x214.webp 600w"
+                                    // srcSet="/4-chart-png.webp 1110w, https://irocket.pro/wp-content/uploads/2024/10/4-chart-300x107.webp 300w, https://irocket.pro/wp-content/uploads/2024/10/4-chart-1024x365.webp 1024w, https://irocket.pro/wp-content/uploads/2024/10/4-chart-768x274.webp 768w, https://irocket.pro/wp-content/uploads/2024/10/4-chart-600x214.webp 600w"
                                     sizes="(max-width: 1110px) 100vw, 1110px"
                                   />
                                   {/* <img
@@ -1059,10 +1059,10 @@ for market making"
                                     width={1110}
                                     height={396}
                                     src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%201110%20396%22%3E%3C/svg%3E"
-                                    data-src="src/assets/4-chart-png.webp"
+                                    data-src="/4-chart-png.webp"
                                     className=" lazy  vc_single_image-img attachment-full"
                                     alt
-                                    data-srcset="src/assets/4-chart-png.webp 1110w, https://irocket.pro/wp-content/uploads/2024/10/4-chart-300x107.webp 300w, https://irocket.pro/wp-content/uploads/2024/10/4-chart-1024x365.webp 1024w, https://irocket.pro/wp-content/uploads/2024/10/4-chart-768x274.webp 768w, https://irocket.pro/wp-content/uploads/2024/10/4-chart-600x214.webp 600w"
+                                    data-srcset="/4-chart-png.webp 1110w, https://irocket.pro/wp-content/uploads/2024/10/4-chart-300x107.webp 300w, https://irocket.pro/wp-content/uploads/2024/10/4-chart-1024x365.webp 1024w, https://irocket.pro/wp-content/uploads/2024/10/4-chart-768x274.webp 768w, https://irocket.pro/wp-content/uploads/2024/10/4-chart-600x214.webp 600w"
                                     data-sizes="(max-width: 1110px) 100vw, 1110px"
                                   /> */}
                                 </div>
@@ -1130,7 +1130,7 @@ for market making"
                                   <p>
                                     <img
                                       decoding="async"
-                                      src="src/assets/aman-png.webp"
+                                      src="/aman-png.webp"
                                       alt="DEX Volume Bot 
 for market making"
                                       width={41}
@@ -1173,7 +1173,7 @@ for market making"
                                   <p>
                                     <img
                                       decoding="async"
-                                      src="src/assets/aclock-png.webp"
+                                      src="/aclock-png.webp"
                                       alt="DEX Volume Bot 
 for market making"
                                       width={41}
@@ -1221,7 +1221,7 @@ for market making"
                                   <p>
                                     <img
                                       decoding="async"
-                                      src="src/assets/abitcoin-png.webp"
+                                      src="/abitcoin-png.webp"
                                       alt="DEX Volume Bot 
 for market making"
                                       width={41}
@@ -1263,7 +1263,7 @@ for market making"
                                   <p>
                                     <img
                                       decoding="async"
-                                      src="src/assets/acards-png.webp"
+                                      src="/acards-png.webp"
                                       alt="DEX Volume Bot 
 for market making"
                                       width={41}
@@ -1381,10 +1381,10 @@ for market making"
                                     decoding="async"
                                     width={600}
                                     height={423}
-                                    src="src/assets/hand-bit.webp"
+                                    src="/hand-bit.webp"
                                     className="vc_single_image-img attachment-full"
                                     alt
-                                    // srcSet="src/assets/hand-bit.webp 600w, https://irocket.pro/wp-content/uploads/2024/10/hand-bit-300x212.webp 300w"
+                                    // srcSet="/hand-bit.webp 600w, https://irocket.pro/wp-content/uploads/2024/10/hand-bit-300x212.webp 300w"
                                     sizes="(max-width: 600px) 100vw, 600px"
                                   />
                                   {/* <img
@@ -1392,10 +1392,10 @@ for market making"
                                     width={600}
                                     height={423}
                                     src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20600%20423%22%3E%3C/svg%3E"
-                                    data-src="src/assets/hand-bit.webp"
+                                    data-src="/hand-bit.webp"
                                     className=" lazy  vc_single_image-img attachment-full"
                                     alt
-                                    data-srcset="src/assets/hand-bit.webp 600w, https://irocket.pro/wp-content/uploads/2024/10/hand-bit-300x212.webp 300w"
+                                    data-srcset="/hand-bit.webp 600w, https://irocket.pro/wp-content/uploads/2024/10/hand-bit-300x212.webp 300w"
                                     data-sizes="(max-width: 600px) 100vw, 600px"
                                   /> */}
                                 </div>
