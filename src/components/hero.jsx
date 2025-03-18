@@ -299,7 +299,7 @@ const Hero = () => {
                           <img
                             decoding="async"
                             className="vc_single_image-img "
-                            src="src/assets/mobile-420x402.webp"
+                            src="src/assets/Dragon Mm 3.png"
                             width={420}
                             height={402}
                             alt
