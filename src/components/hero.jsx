@@ -634,10 +634,10 @@ const Hero = () => {
                                     decoding="async"
                                     width={1050}
                                     height={724}
-                                    src="https://irocket.pro/wp-content/uploads/2024/10/deximg-png.webp"
+                                    src="src/assets/deximg-png.webp"
                                     className="vc_single_image-img attachment-full"
                                     alt
-                                    srcSet="https://irocket.pro/wp-content/uploads/2024/10/deximg-png.webp 1050w, https://irocket.pro/wp-content/uploads/2024/10/deximg-300x207.webp 300w, https://irocket.pro/wp-content/uploads/2024/10/deximg-1024x706.webp 1024w, https://irocket.pro/wp-content/uploads/2024/10/deximg-768x530.webp 768w, https://irocket.pro/wp-content/uploads/2024/10/deximg-600x414.webp 600w"
+                                    // srcSet="src/assets/deximg-png.webp 1050w, https://irocket.pro/wp-content/uploads/2024/10/deximg-300x207.webp 300w, https://irocket.pro/wp-content/uploads/2024/10/deximg-1024x706.webp 1024w, https://irocket.pro/wp-content/uploads/2024/10/deximg-768x530.webp 768w, https://irocket.pro/wp-content/uploads/2024/10/deximg-600x414.webp 600w"
                                     sizes="(max-width: 1050px) 100vw, 1050px"
                                   />
                                   {/* <img
@@ -645,10 +645,10 @@ const Hero = () => {
                                     width={1050}
                                     height={724}
                                     src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%201050%20724%22%3E%3C/svg%3E"
-                                    data-src="https://irocket.pro/wp-content/uploads/2024/10/deximg-png.webp"
+                                    data-src="src/assets/deximg-png.webp"
                                     className=" lazy  vc_single_image-img attachment-full"
                                     alt
-                                    data-srcset="https://irocket.pro/wp-content/uploads/2024/10/deximg-png.webp 1050w, https://irocket.pro/wp-content/uploads/2024/10/deximg-300x207.webp 300w, https://irocket.pro/wp-content/uploads/2024/10/deximg-1024x706.webp 1024w, https://irocket.pro/wp-content/uploads/2024/10/deximg-768x530.webp 768w, https://irocket.pro/wp-content/uploads/2024/10/deximg-600x414.webp 600w"
+                                    data-srcset="src/assets/deximg-png.webp 1050w, https://irocket.pro/wp-content/uploads/2024/10/deximg-300x207.webp 300w, https://irocket.pro/wp-content/uploads/2024/10/deximg-1024x706.webp 1024w, https://irocket.pro/wp-content/uploads/2024/10/deximg-768x530.webp 768w, https://irocket.pro/wp-content/uploads/2024/10/deximg-600x414.webp 600w"
                                     data-sizes="(max-width: 1050px) 100vw, 1050px"
                                   /> */}
                                 </div>
@@ -697,10 +697,10 @@ const Hero = () => {
                                     decoding="async"
                                     width={600}
                                     height={383}
-                                    src="https://irocket.pro/wp-content/uploads/2024/10/notebook.webp"
+                                    src="src/assets/notebook.webp"
                                     className="vc_single_image-img attachment-full"
                                     alt
-                                    srcSet="https://irocket.pro/wp-content/uploads/2024/10/notebook.webp 600w, https://irocket.pro/wp-content/uploads/2024/10/notebook-300x192.webp 300w"
+                                    // srcSet="src/assets/notebook.webp 600w, https://irocket.pro/wp-content/uploads/2024/10/notebook-300x192.webp 300w"
                                     sizes="(max-width: 600px) 100vw, 600px"
                                   />
                                   {/* <img
@@ -708,10 +708,10 @@ const Hero = () => {
                                     width={600}
                                     height={383}
                                     src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20600%20383%22%3E%3C/svg%3E"
-                                    data-src="https://irocket.pro/wp-content/uploads/2024/10/notebook.webp"
+                                    data-src="src/assets/notebook.webp"
                                     className=" lazy  vc_single_image-img attachment-full"
                                     alt
-                                    data-srcset="https://irocket.pro/wp-content/uploads/2024/10/notebook.webp 600w, https://irocket.pro/wp-content/uploads/2024/10/notebook-300x192.webp 300w"
+                                    data-srcset="src/assets/notebook.webp 600w, https://irocket.pro/wp-content/uploads/2024/10/notebook-300x192.webp 300w"
                                     data-sizes="(max-width: 600px) 100vw, 600px"
                                   /> */}
                                 </div>
@@ -860,7 +860,7 @@ const Hero = () => {
                                   <p>
                                     <img
                                       decoding="async"
-                                      src="https://irocket.pro/wp-content/uploads/2024/10/aman-png.webp"
+                                      src="src/assets/aman-png.webp"
                                       alt="Main"
                                       width={41}
                                       height={40}
@@ -869,7 +869,7 @@ const Hero = () => {
                                     {/* <img
                                       decoding="async"
                                       src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2041%2040%22%3E%3C/svg%3E"
-                                      data-src="https://irocket.pro/wp-content/uploads/2024/10/aman-png.webp"
+                                      data-src="src/assets/aman-png.webp"
                                       alt="Main"
                                       width={41}
                                       height={40}
@@ -901,7 +901,7 @@ const Hero = () => {
                                   <p>
                                     <img
                                       decoding="async"
-                                      src="https://irocket.pro/wp-content/uploads/2024/10/aclock-png.webp"
+                                      src="src/assets/aclock-png.webp"
                                       alt="Main"
                                       width={41}
                                       height={40}
@@ -946,7 +946,7 @@ const Hero = () => {
                                   <p>
                                     <img
                                       decoding="async"
-                                      src="https://irocket.pro/wp-content/uploads/2024/10/acards-png.webp"
+                                      src="src/assets/acards-png.webp"
                                       alt="Main"
                                       width={41}
                                       height={40}
@@ -986,7 +986,7 @@ const Hero = () => {
                                   <p>
                                     <img
                                       decoding="async"
-                                      src="https://irocket.pro/wp-content/uploads/2024/10/abitcoin-png.webp"
+                                      src="src/assets/abitcoin-png.webp"
                                       alt="Main"
                                       width={41}
                                       height={40}
@@ -1031,7 +1031,7 @@ const Hero = () => {
                                   <p>
                                     <img
                                       decoding="async"
-                                      src="https://irocket.pro/wp-content/uploads/2024/10/alock-png.webp"
+                                      src="src/assets/alock-png.webp"
                                       alt="Main"
                                       width={41}
                                       height={40}
@@ -1072,7 +1072,7 @@ const Hero = () => {
                                   <p>
                                     <img
                                       decoding="async"
-                                      src="https://irocket.pro/wp-content/uploads/2024/10/afingerprint-png.webp"
+                                      src="src/assets/afingerprint-png.webp"
                                       alt="Main"
                                       width={41}
                                       height={40}
