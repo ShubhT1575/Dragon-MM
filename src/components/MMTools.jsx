@@ -433,7 +433,7 @@ const MMTools = () => {
                       data-res-css=" @media only screen and (max-width: 992px) {.ch_470832{}} @media only screen and (max-width: 768px) {.ch_470832{}} @media only screen and (max-width: 576px) {.ch_470832{}}"
                     >
                       For DEX Orca, Raydium, Uniswap, PancakeSwap, SushiSwap,
-                      DeDust, SunPump, Trader Joe.
+                      DeDust, SunPump, Trader Joe
                     </h3>
                     <div className="wpb_text_column wpb_content_element lh14">
                       <div className="wpb_wrapper">
