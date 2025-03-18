@@ -1869,7 +1869,8 @@ ul.wpb_thumbnails-fluid>li {
 .wpb_single_image img {
     height: auto;
     max-width: 100%;
-    vertical-align: top
+    vertical-align: top;
+    padding-bottom: 30px;
 }
 
 .wpb_single_image .vc_single_image-wrapper {
@@ -4939,7 +4940,8 @@ ul.wpb_thumbnails-fluid>li {
 .wpb_single_image img {
     height: auto;
     max-width: 100%;
-    vertical-align: top
+    vertical-align: top;
+    padding-bottom: 30px;
 }
 
 .wpb_single_image .vc_single_image-wrapper {

@@ -15,7 +15,7 @@ const Hero = () => {
               data-vc-full-width-init="false"
               className="ult-responsive vc_row wpb_row vc_row-fluid relative visible mt150 vc_custom_1739132604114"
               data-res-css=" @media only screen and (max-width: 992px) {.vc_custom_1739132604114{margin-bottom: 0px !important;}} @media only screen and (max-width: 768px) {.vc_custom_1739132604114{margin-bottom: 0px !important;}} @media only screen and (max-width: 576px) {.vc_custom_1739132604114{margin-bottom: 0px !important;}}"
-              style={{marginTop: "200px"}}
+              style={{marginTop: "100px"}}
             >
               <div className="relative wpb_column vc_column_container vc_col-sm-1">
                 <div className="vc_column-inner">
@@ -299,7 +299,7 @@ const Hero = () => {
                           <img
                             decoding="async"
                             className="vc_single_image-img "
-                            src="https://irocket.pro/wp-content/uploads/2024/10/mobile-420x402.webp"
+                            src="src/assets/mobile-420x402.webp"
                             width={420}
                             height={402}
                             alt
@@ -308,7 +308,7 @@ const Hero = () => {
                             decoding="async"
                             className=" lazy  vc_single_image-img "
                             src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20420%20402%22%3E%3C/svg%3E"
-                            data-src="https://irocket.pro/wp-content/uploads/2024/10/mobile-420x402.webp"
+                            data-src="src/assets/mobile-420x402.webp"
                             width={420}
                             height={402}
                             alt
@@ -474,7 +474,7 @@ const Hero = () => {
                           <img
                             decoding="async"
                             className="vc_single_image-img "
-                            src="https://irocket.pro/wp-content/uploads/2024/10/mobile-420x402.webp"
+                            src="src/assets/mobile-420x402.webp"
                             width={420}
                             height={402}
                             alt
@@ -483,7 +483,7 @@ const Hero = () => {
                             decoding="async"
                             className=" lazy  vc_single_image-img "
                             src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20420%20402%22%3E%3C/svg%3E"
-                            data-src="https://irocket.pro/wp-content/uploads/2024/10/mobile-420x402.webp"
+                            data-src="src/assets/mobile-420x402.webp"
                             width={420}
                             height={402}
                             alt
