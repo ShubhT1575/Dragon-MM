@@ -7388,7 +7388,7 @@ const Hero = () => {
                           <img
                             decoding="async"
                             className="vc_single_image-img "
-                            src="public/Dragon Mm 3.png"
+                            src="/Dragon Mm 3.png"
                             width={160}
                             height={90}
                             alt
